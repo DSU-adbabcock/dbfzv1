@@ -61,19 +61,9 @@ namespace dbfzv1.Adapter
         }
 
         // references to our images
-        /*int[] thumbIds = {
-        Resource.Drawable.a, Resource.Drawable.sample_3,
-        Resource.Drawable.sample_4, Resource.Drawable.sample_5,
-        Resource.Drawable.sample_6, Resource.Drawable.sample_7,
-        Resource.Drawable.sample_0, Resource.Drawable.sample_1,
-        Resource.Drawable.sample_2, Resource.Drawable.sample_3,
-        Resource.Drawable.sample_4, Resource.Drawable.sample_5,
-        Resource.Drawable.sample_6, Resource.Drawable.sample_7,
-        Resource.Drawable.sample_0, Resource.Drawable.sample_1,
-        Resource.Drawable.sample_2, Resource.Drawable.sample_3,
-        Resource.Drawable.sample_4, Resource.Drawable.sample_5,
-        Resource.Drawable.sample_6, Resource.Drawable.sample_7
-    };*/
+        int[] thumbIds = {
+         Resource.Drawable.a16;
+    };
     }
 }
 
