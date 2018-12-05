@@ -26,7 +26,7 @@ namespace dbfzv1.Adapter
 
         public override int Count
         {
-            get { return /*thumbIds.Length;*/2; }
+            get { return thumbIds.Length; }
         }
 
         public override Java.Lang.Object GetItem (int position)
@@ -47,22 +47,54 @@ namespace dbfzv1.Adapter
             if (convertView == null)
             {  // if it's not recycled, initialize some attributes
                 imageView = new ImageView(context);
-                imageView.LayoutParameters = new GridView.LayoutParams(85, 85);
-                imageView.SetScaleType(ImageView.ScaleType.CenterCrop);
-                imageView.SetPadding(8, 8, 8, 8);
+                imageView.LayoutParameters = new GridView.LayoutParams(200, 150);
+                imageView.SetScaleType(ImageView.ScaleType.FitXy);
+                imageView.SetPadding(20, 5, 20, 5);
             }
             else
             {
                 imageView = (ImageView)convertView;
             }
 
-            //imageView.SetImageResource(thumbIds[position]);
+            imageView.SetImageResource(thumbIds[position]);
             return imageView;
         }
 
         // references to our images
         int[] thumbIds = {
-         Resource.Drawable.a16;
+         Resource.Drawable.a16,
+         Resource.Drawable.a17,
+         Resource.Drawable.a18,
+         Resource.Drawable.a21,
+         Resource.Drawable.bdk,
+         Resource.Drawable.brs,
+         Resource.Drawable.bro,
+         Resource.Drawable.gyu,
+         Resource.Drawable.cel,
+         Resource.Drawable.clr,
+         Resource.Drawable.fza,
+         Resource.Drawable.tgn,
+         Resource.Drawable.agh,
+         Resource.Drawable.gkn,
+         Resource.Drawable.gku,
+         Resource.Drawable.bgk,
+         Resource.Drawable.blk,
+         Resource.Drawable.gtk,
+         Resource.Drawable.hit,
+         Resource.Drawable.kbu,
+         Resource.Drawable.krl,
+         Resource.Drawable.buu,
+         Resource.Drawable.nap,
+         Resource.Drawable.pic,
+         Resource.Drawable.ten,
+         Resource.Drawable.trk,
+         Resource.Drawable.vgn,
+         Resource.Drawable.veg,
+         Resource.Drawable.bvg,
+         Resource.Drawable.veg,
+         Resource.Drawable.yam,
+         Resource.Drawable.zam,
+
     };
     }
 }
