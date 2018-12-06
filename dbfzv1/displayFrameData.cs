@@ -13,13 +13,15 @@ using Android.Widget;
 namespace dbfzv1
 {
     [Activity(Label = "Activity1")]
-    public class Activity1 : Activity
+    public class displayFrameData : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
 
+            string character = Intent.GetStringExtra("character") ?? string.Empty;
+            Toast.MakeText(this, character, ToastLength.Long).Show();
             // Create your application here
         }
     }

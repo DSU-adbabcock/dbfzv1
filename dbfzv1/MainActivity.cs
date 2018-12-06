@@ -53,7 +53,9 @@ namespace dbfzv1
 
         void gridView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
         {
-            StartActivity(typeof(Activity1));
+            var charIntent = new Intent(this, typeof(displayFrameData));
+            charIntent.PutExtra("character", characters[e.Position]); //pass charname to displayFrameData activity to choose which char to display for
+            StartActivity(charIntent);
         }
     }
 
