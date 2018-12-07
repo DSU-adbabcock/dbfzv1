@@ -12,14 +12,14 @@ using Android.Views;
 using Android.Widget;
 
 namespace dbfzv1
-{
-    [Activity(Label = "Activity1")]
+{ 
+    [Activity(Label = "Frame Data")]
     public class displayFrameData : AppCompatActivity
     {
 
         ExpandableListViewAdapter mAdapter;
         ExpandableListView expandableListView;
-        List<string> group = new List<string>();
+        List<string> headers = new List<string>();
         Dictionary<string, List<string>> dict = new Dictionary<string, List<string>>();
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -50,22 +50,34 @@ namespace dbfzv1
 
         private void testSetup(Character character, out ExpandableListViewAdapter mAdapter)
         {
-            List<string> listA = new List<string>();
-            List<string> listB = new List<string>();
+            List<List <string>> moveData = new List<List<string>>(); //a list of lists. used to store list of data for each move.
+            int i = 0;
 
-            listA.Add("A-1");
-            listA.Add("B-1");
+            foreach(Move move in character.MoveList)
+            {
+                headers.Add(move.Name);
+                List<string> tempList = new List<string>();
 
-            listB.Add("C-1");
-            listB.Add("C-2");
+                tempList.Add(move.Damage);
+                tempList.Add(move.Guard);
+                tempList.Add(move.Active);
+                tempList.Add(move.Recovery);
+                tempList.Add(move.Advantage);
+                tempList.Add(move.Meter);
+                tempList.Add(move.Notes);
+                dict.Add(headers[i], tempList);
+                i++;
+            }
+            
+        //  for(int i = 0; i <= headers.Count(); i++)
+          //  {
+            //    dict.Add(headers[i], moveData[i]);
+            //}
 
-            group.Add("Group A");
-            group.Add("Group B");
+           // dict.Add(headers[0], listA);
+            //dict.Add(headers[1], listB);
 
-            dict.Add(group[0], listA);
-            dict.Add(group[1], listB);
-
-            mAdapter = new ExpandableListViewAdapter(this, group, dict);
+            mAdapter = new ExpandableListViewAdapter(this, headers, dict);
 
         }
     }
