@@ -29,18 +29,45 @@ namespace dbfzv1
             name = n;
         }
 
-        public string Name { get; set; }
+        public string Name
+        {
+            get
+            {
+                return name;
+            }
+            set
+            {
+                name = value;
+            }
+        }
+
+        public List<Move> MoveList
+        {
+            get
+            {
+                return moveList;
+            }
+        }
+
 
         public string InitMoveList()
         {
             // string fileName = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.LocalApplicationData), "Cell.txt");
             // string lines = File.ReadAllLines(fileName);
             var assembly = IntrospectionExtensions.GetTypeInfo(typeof(MainActivity)).Assembly;
-            Stream stream = assembly.GetManifestResourceStream("dbfzv1.Cell.txt");
+            Stream stream = assembly.GetManifestResourceStream("dbfzv1." + name + ".txt");
             string text = "";
             using (var reader = new System.IO.StreamReader(stream))
             {
-                text = reader.ReadToEnd();
+                name = reader.ReadLine();
+                while(!reader.EndOfStream)
+                {
+                    text = reader.ReadLine();
+                    System.Diagnostics.Debug.WriteLine(text);
+                    string[] data = text.Split(" /"); //name, damage, guard, active, recovery, advantage, meter, notes
+                    Move move = new Move(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8]);
+                    moveList.Add(move);
+                }
             }
             return text;
         }

@@ -23,7 +23,8 @@ namespace dbfzv1
             string characterName = Intent.GetStringExtra("character") ?? string.Empty;
             Character character = new Character(characterName);
             string text = character.InitMoveList();
-            Toast.MakeText(this, text, ToastLength.Long).Show();
+            string adv = character.MoveList[1].Advantage;
+            Toast.MakeText(this, adv, ToastLength.Long).Show();
             // Create your application here
         }
     }
