@@ -18,7 +18,7 @@ jS /650, 600 [1250] /All /17 /- /45 /- /- /0
 j2H /850 /All /15 /3 /19 /- /- /0
 6H /850 /Low /13 /3 /18 /-5 /- /0
 SPECIAL
-Hell Strike /j2M /0 /900 /High /33 /3 /30 /-3 /8-15 All /nothin personell, kid
+Hell Strike /j2M /0 /900 /High /33 /3 /30 /-3 /8-15 All /nothin personell, kid ;ladfkjsd;jasfkljsdfk dfkljkdsjfskjladjsf ;ljasdfkj dasfj ;lkjds fkljsdlfkjkl lkdjs fkljsdlkj lkj sdklfjsl jlkjs flkjsdf kl
 Rolling Crush /236L /0 /100*4, 700 [1100] /All*4, High /8 /2,2,2,2(8)3 /15 /-2 /- /0
 Rolling Crush /236M /0 /100*4, 900 [1300] /All*4, High /14 /2,2,2,2(8)3 /15 /-2 /- /0
 Rolling Crush /236H /1 /100*4, 1000 [1400] /All*4, High /10 /2,2,2,2(8)3 /15 /-2 /- /0
