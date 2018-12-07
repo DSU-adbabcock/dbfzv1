@@ -20,8 +20,10 @@ namespace dbfzv1
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
 
-            string character = Intent.GetStringExtra("character") ?? string.Empty;
-            Toast.MakeText(this, character, ToastLength.Long).Show();
+            string characterName = Intent.GetStringExtra("character") ?? string.Empty;
+            Character character = new Character(characterName);
+            string text = character.InitMoveList();
+            Toast.MakeText(this, text, ToastLength.Long).Show();
             // Create your application here
         }
     }
