@@ -55,16 +55,48 @@ namespace dbfzv1
 
             foreach(Move move in character.MoveList)
             {
-                headers.Add(move.Name);
                 List<string> tempList = new List<string>();
+                Type t = move.GetType();
 
-                tempList.Add(move.Damage);
-                tempList.Add(move.Guard);
-                tempList.Add(move.Active);
-                tempList.Add(move.Recovery);
-                tempList.Add(move.Advantage);
-                tempList.Add(move.Meter);
-                tempList.Add(move.Notes);
+                if (t.Equals(typeof(SuperMove)))
+                {
+                    SuperMove tmp = (SuperMove)move;
+                    headers.Add(tmp.getFullName());
+                    tempList.Add(tmp.Damage);
+                    tempList.Add(tmp.Guard);
+                    tempList.Add(tmp.Active);
+                    tempList.Add(tmp.Recovery);
+                    tempList.Add(tmp.Advantage);
+                    tempList.Add(tmp.Meter);
+                    tempList.Add(tmp.Notes);
+                }
+                else if(t.Equals(typeof(SpecialMove)))
+                {
+                    SpecialMove tmp = (SpecialMove)move;
+                    headers.Add(tmp.getFullName());
+                    tempList.Add(tmp.Damage);
+                    tempList.Add(tmp.Guard);
+                    tempList.Add(tmp.Active);
+                    tempList.Add(tmp.Recovery);
+                    tempList.Add(tmp.Advantage);
+                    tempList.Add(tmp.Meter);
+                    tempList.Add(tmp.Notes);
+                }
+                else
+                {
+                    NormalMove tmp = (NormalMove)move;
+                    headers.Add(tmp.Name);
+                    tempList.Add(tmp.Damage);
+                    tempList.Add(tmp.Guard);
+                    tempList.Add(tmp.Active);
+                    tempList.Add(tmp.Recovery);
+                    tempList.Add(tmp.Advantage);
+                    tempList.Add(tmp.Meter);
+                    tempList.Add(tmp.Notes);
+                }
+                
+
+                
                 dict.Add(headers[i], tempList);
                 i++;
             }

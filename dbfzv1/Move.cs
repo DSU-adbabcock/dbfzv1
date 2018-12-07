@@ -12,150 +12,67 @@ using Android.Widget;
 
 namespace dbfzv1
 {
-    public class Move
+    abstract public class Move
     {
-        private string name;
-        private string damage;
-        private string guard;
-        private string startup;
-        private string active;
-        private string recovery;
-        private string advantage;
-        private string meter;
-        private string notes;
-        private bool special = false;
+        protected string name;
+        protected string damage;
+        protected string guard;
+        protected string startup;
+        protected string active;
+        protected string recovery;
+        protected string advantage;
+        protected string invul;
+        protected string meter;
+        protected string notes;
 
-        public Move()
+        public abstract string Name
         {
-            name = "Unnamed move";
+            get; set;
         }
 
-        public Move(string n, string d, string g, string s, string act, string r, string adv, string m, string no)
+        public abstract string Damage
         {
-            name = n;
-            damage = d;
-            guard = g;
-            startup = s;
-            active = act;
-            recovery = r;
-            advantage = adv;
-            meter = m;
-            notes = no;
-            if (n.Contains("236") || n.Contains("214"))
-                special = true;
-        }
-        
-        public bool isSpecial()
-        {
-            return special;
+            get; set;
         }
 
-        public string Name
+        public abstract string Guard
         {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                name = value;
-            }
+            get; set;
         }
 
-        public string Damage
+        public abstract string Startup
         {
-            get
-            {
-                return damage;
-            }
-            set
-            {
-                damage = value;
-            }
+            get; set;
         }
 
-        public string Guard
+        public abstract string Active
         {
-            get
-            {
-                return guard;
-            }
-            set
-            {
-                guard = value;
-            }
+            get; set;
         }
 
-        public string Startup
+        public abstract string Recovery
         {
-            get
-            {
-                return startup;
-            }
-            set
-            {
-                startup = value;
-            }
+            get; set;
         }
 
-        public string Active
+        public abstract string Advantage
         {
-            get
-            {
-                return active;
-            }
-            set
-            {
-                active = value;
-            }
+            get; set;
         }
 
-        public string Recovery
+        public abstract string Invul
         {
-            get
-            {
-                return recovery;
-            }
-            set
-            {
-                recovery = value;
-            }
+            get; set;
         }
 
-        public string Advantage
+        public abstract string Meter
         {
-            get
-            {
-                return advantage;
-            }
-            set
-            {
-                advantage = value;
-            }
+            get; set;
         }
 
-        public string Meter
+        public abstract string Notes
         {
-            get
-            {
-                return meter;
-            }
-            set
-            {
-                meter = value;
-            }
-        }
-
-        public string Notes
-        {
-            get
-            {
-                return notes;
-            }
-            set
-            {
-                notes = value;
-            }
+            get; set;
         }
     }
 }

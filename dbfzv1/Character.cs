@@ -60,14 +60,34 @@ namespace dbfzv1
             using (var reader = new System.IO.StreamReader(stream))
             {
                 name = reader.ReadLine();
+                text = reader.ReadLine();
+                while(text != "SPECIAL")
+                {
+                    System.Diagnostics.Debug.WriteLine(text);
+                    string[] data = text.Split(" /"); //name, damage, guard, startup, active, recovery, advantage, invuln, notes
+                    NormalMove move = new NormalMove(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8]);
+                    moveList.Add(move);
+                    text = reader.ReadLine();
+                }
+                text = reader.ReadLine();
+                while (text != "SUPER")
+                {
+                    System.Diagnostics.Debug.WriteLine(text);
+                    string[] data = text.Split(" /"); //name, input, meter, damage, guard, startup, active, recovery, advantage, invuln, notes
+                    SpecialMove move = new SpecialMove(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8], data[9], data[10]);
+                    moveList.Add(move);
+                    text = reader.ReadLine();
+                }
+                text = reader.ReadLine();
                 while(!reader.EndOfStream)
                 {
-                    text = reader.ReadLine();
                     System.Diagnostics.Debug.WriteLine(text);
-                    string[] data = text.Split(" /"); //name, damage, guard, active, recovery, advantage, meter, notes
-                    Move move = new Move(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8]);
+                    string[] data = text.Split(" /"); //name, input, meter, damage, minDamage, guard, startup, active, recovery, advantage, invuln, notes
+                    SuperMove move = new SuperMove(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8], data[9], data[10], data[11]);
                     moveList.Add(move);
+                    text = reader.ReadLine();
                 }
+
             }
             return text;
         }
