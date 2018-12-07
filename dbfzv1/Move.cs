@@ -23,6 +23,7 @@ namespace dbfzv1
         private string advantage;
         private string meter;
         private string notes;
+        private bool special = false;
 
         public Move()
         {
@@ -40,8 +41,14 @@ namespace dbfzv1
             advantage = adv;
             meter = m;
             notes = no;
+            if (n.Contains("236") || n.Contains("214"))
+                special = true;
         }
         
+        public bool isSpecial()
+        {
+            return special;
+        }
 
         public string Name
         {
