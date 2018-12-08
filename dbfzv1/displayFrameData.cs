@@ -33,9 +33,8 @@ namespace dbfzv1
 
             string characterName = Intent.GetStringExtra("character") ?? string.Empty;
             Character character = new Character(characterName);
-            string text = character.InitMoveList();
-            string adv = character.MoveList[1].Advantage;
-            Toast.MakeText(this, adv, ToastLength.Long).Show();
+            character.InitMoveList();
+
 
            // var toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
             //SetSupportActionBar(toolbar);

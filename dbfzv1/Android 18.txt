@@ -1,0 +1,36 @@
+﻿Android 18
+5L /400 /Low /7 /4 /13 /-5 /- /-
+5LL /700 /All /9 /4 /20 /-5 /- /-
+5LLL /1000 /All /12 /5 /17 /-6 /- /-
+2L /400 /Low /7 /2 /15 /-5 /- /-
+5M /700 /All /10 /4 /19 /-7 /- /-
+2M /700 /Low /10 /5 /19 /-7 /- /-
+6M /850 /High /24 /6 /- /0 /- /-
+5H /850 /All /15 /4 /22 /-6 /- /-
+2H /850 /All /13 /3 /35 /-18 /- /-
+5S /300 /All /13 /- /- /-4 /- /-
+2S /600 /All /29 /- /8 /+11 /- /-
+jL /400 /High /7 /3 /- /- /- /-
+jM /700 /High /10 /3 /- /- /- /-
+jH /850 /high /13 /4 /- /- /- /-
+j2H /850 /All /14 /8 /- /- /- /-
+jS /600 /All /15 /- /- /- /- /-
+SPECIAL
+Back Grab /236L /0 /1200 /Throw /21 /1 /- /- /- /-
+Back Grab /236M /0 /1395 /Throw /26 /1 /- /- /- /-
+Back Grab /236H /1 /1595 /Throw /26 /1 /- /- /- /-
+Support Attack /214L /0 /700 /All /14 /8 /40 /- /- /-
+Support Attack /214M /0 /1000 /All /33 /4 /40 /- /- /-
+Support Attack /214H /1 /1717 /All /14 /300 /33 /- /- /-
+Support Attack /214S /0 /750 /All /43 /- /40 /- /- /-
+Support Attack /j214L /0 /700 /All /20 /3 /40 /- /- /-
+Support Attack /j214M /0 /810 /All /23+ /4 /33 /- /- /-
+Support Attack /j214H /1 /1717 /All /14 /~314 /33 /- /- /-
+Support Attack /j214S /0 /- /- /- /- /33 /- /- /-
+Destructo Disc /236S /0 /1000 /All /20 /- /- /- /- /- /-
+Barrier /22S /0 /- /- /6 /35 /9 /- /- /-
+SUPER
+Energy Wave /236L+M /1 /2018 /- /All /33+4 /40 /- /- /- /-
+Energy Wave /j236L+M /1 /2018 /- /All /33+4 /44 /- /- /- /-
+Accel Dance /214L+M /3 /4218 /1518 /All /9+0 /14 /- /- /1-23 /-
+END

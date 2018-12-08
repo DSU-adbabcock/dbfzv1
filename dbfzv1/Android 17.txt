@@ -1,0 +1,41 @@
+﻿Android 17
+5L /400 /All /- /- /- /- /- /-
+5LL /700 /All /- /- /- /- /- /-
+5LLL /1000 /All /- /- /- /- /- /-
+5M /700 /All /- /- /- /- /- /-
+5H /850 /All /- /- /- /- /- /-
+5S /300*1~6 [1800] /All /- /- /- /- /- /-
+2L /400 /Low /- /- /- /- /- /-
+2M /700 /Low /- /- /- /- /- /-
+2H /850 /All /- /- /- /- /- /-
+6M /850 /High /- /- /- /- /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /250*2~6 [3000] /All /- /- /- /- /- /-
+j2H /850 /All /- /- /- /- /- /-
+SPECIAL
+Sliding Sweep /3H /0 /- /750 /Low /- /- /- /- /- /Similar to Cell 6H
+Accel Driver /236L /0 /900 /All /- /- /- /- /- /Fakeout on hold
+Accel Driver /236M /0 /950 /All /- /- /- /- /- /Fakeout on hold
+Accel Driver /236H /1 /1000 /All /- /- /- /- /Air invuln 1-end /Fakeout on hold
+Finishing Driver /214L /0 /900 /All /- /- /- /- /- /Same as Accel Driver after backstep
+Finishing Driver /236M /0 /950 /All /- /- /- /- /- /Same as Accel Driver after backstep
+Finishing Driver /236H /1 /1000 /All /- /- /- /- /- /Air invuln 1-end /Same as Accel Driver after backstep
+Top Gear /Driver->5L/M /0 /700/750 /All /- /- /- /- /- /-
+Second Gear /Driver->6L/M /0 /700/750 /High /- /- /- /- /- /-
+Low Gear /Driver->2L/M /700/750 /0 /Low /- /- /- /- /- /-
+Fake Out /Driver->4L/M /0 /- /All /- /- /- /- /- /-
+Reverse Gear /Driver->5H/S /1 /1000 /All /- /- /- /- /- /-
+Power Blitz Charge /Driver->2S /0 /800 /All /- /- /- /- /- /-
+Power Blitz /2S after Charge /0 /780*2 [1560] /All /- /- /- /- /- /-
+Acrobatic Assault /Driver->4S/6S /0 /- /All /- /- /- /- /- /-
+Acrobatic Assault /236S/214S /0 /- /All /- /- /- /- /- /-
+Power Blitz Charge /22S /0 /800 /All /- /- /- /- /- /-
+Power Blitz /22S after Charge /0 /780*2 [1560] /All /- /- /- /- /- /-
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Endgame /236L+M /1 /2417 /- /All /- /- /- /- /- /-
+Barrier Explosion /j236L+M /1 /2322 /- /All /- /- /- /- /- /-
+Super Electric Strike /214L+M /3 /3904 /- /All /- /- /- /- /- /-
+END

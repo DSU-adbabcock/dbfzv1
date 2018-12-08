@@ -72,14 +72,18 @@ namespace dbfzv1
                 text = reader.ReadLine();
                 while (text != "SUPER")
                 {
-                    System.Diagnostics.Debug.WriteLine(text);
+                    //System.Diagnostics.Debug.WriteLine(text);
                     string[] data = text.Split(" /"); //name, input, meter, damage, guard, startup, active, recovery, advantage, invuln, notes
+                    foreach(string stuff in data)
+                    {
+                        System.Diagnostics.Debug.WriteLine(stuff);
+                    }
                     SpecialMove move = new SpecialMove(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8], data[9], data[10]);
                     moveList.Add(move);
                     text = reader.ReadLine();
                 }
                 text = reader.ReadLine();
-                while(!reader.EndOfStream)
+                while(text != "END")
                 {
                     System.Diagnostics.Debug.WriteLine(text);
                     string[] data = text.Split(" /"); //name, input, meter, damage, minDamage, guard, startup, active, recovery, advantage, invuln, notes

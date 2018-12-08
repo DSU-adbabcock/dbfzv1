@@ -1,0 +1,39 @@
+﻿Android 16
+5L /400 /All /7 /3 /15 /-4 /- /-
+5LL /700 /All /10 /4 /22 /-10 /- /-
+5LLL /1000 /Throw /18 /1 /19 /-22 /- /-
+2L /400 /Low /8 /3 /13 /-4 /- /-
+5M /700 /All /11 /3 /19 /-6 /- /-
+2M /700 /Low /13 /4 /24 /-12 /- /-
+6M /850 /Haigh /24 /6 /10 /0 /- /-
+5H /850 /All /15 /11 /21 /-8 /13-25 /- /-
+2H /850 /All /15 /9 /23 /-16 /9 /-
+5S /600 /All /15 /1 /40 /-10 /- /-
+5SS /600,600 [1200] /All /15,15 /1,1 /40 /-10 /- /-
+jL /400 /High /8 /10 /11 /-3 /- /-
+jM /800 /High /11 /6 /12 /-2 /- /-
+jH /850 /All /17 /8 /21 /-13 /15-24 /-
+j2H /850 /All /15 /5 /18 /-10 /- /Active until landing
+jS /600 /All /18 /1 /29 /-1 /- /-
+jSS /600,600 [1200] /All /18,16 /1,1 /29 /-1 /- /-
+SPECIAL
+Dynamite Driver /236L /0 /1200 /Throw /18 /1 /26 /- /- /-
+Dynamite Driver /236M /0 /1200 /Throw /28 /1 /28 /- /- /-
+Dynamite Driver /236H /1 /1500 /Throw /26 /1 /28 /- /- /-
+Flying Powerbomb /214L /0 /1300 /Throw /10 /11 /16 /- /- /-
+Flying Powerbomb /214M /0 /1300 /Throw /19 /9 /16 /- /- /-
+Flying Powerbomb /214H /1 /300, 1600 [1900] /All /6,9 /2,9 /14 /-4 /- /-
+Flying Powerbomb /j214L /0 /1400 /Throw /10 /11 /16 /- /- /-
+Flying Powerbomb /j214M /0 /1400 /Throw /19 /9 /16 /- /- /-
+Flying Powerbomb /j214H /1 /1700 /Throw /15 /9 /14 /- /- /-
+Gliding Powerbomb /j236L /0 /1300 /Throw /10 /3 /22 /- /- /-
+Gliding Powerbomb /j236M /0 /1300 /Throw /24 /3 /22 /- /- /-
+Gliding Powerbomb /j236H /1 /1600 /Throw /13 /3 /20 /- /- /-
+Hell Heat /236S /0 /1100 /All /20 /15 /22 /0 /- /-
+Hell Heat /214S /0 /1200 /All /24 /15 /18 /+4 /- /-
+Assist /A1/A2 /0 /850 /All /35 /15 /46 /- /- /-
+SUPER
+Hell Flash /236L+M /1 /2121 /636 /All /9+4 /45 /45 /- /9-20 /Less damage if higher up
+Hell Flash: Full Power /214L+M /3 /4816 /1616 /Throw /9+3 /1 /28 /- /1-12 /Hair dryers
+Last Resort /214H+S /3 /50000 /50000 /Throw /31+34 /4 /37 /- /1-68 /Why are you doing this
+END

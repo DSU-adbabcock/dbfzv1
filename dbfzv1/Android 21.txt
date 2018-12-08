@@ -1,0 +1,47 @@
+﻿Android 21
+5L /400 /All /7 /3 /- /-3 /- /-
+5LL /700 /All /9 /4 /- /-4 /- /- 
+5LLL /1000 /All /13 /4 /- /-5 /- /-
+2L /400 /Low /8 /2 /- /-2 /- /-
+5M /700 /All /10 /4 /- /-6 /- /- 
+2M /700 /All /10 /4 /- /-6 /- /- 
+3M /700 /Low /16 /3 /- /-5 /- /-
+6M /850 /High /24 /6 /- /0 /- /-
+5H /850 /All /15 /4 /- /-8 /- /-
+2H /850 /All /16 /3 /- /-19 /- /-
+5S /600 /All /13 /- /- /0 /- /-
+jL /400 /High /6 /3 /- /- /- /-
+jM /700 /High /10 /4 /- /- /- /-
+jH /750 /high /13 /5 /- /- /- /-
+j2H /750 /All /13 /4 /- /- /- /-
+jS /400*3 [1200] /All /18 /- /- /- /- /-
+SPECIAL
+Total Detonation Ball /236L /0 /900 /All /18 /- /- /-10 /- /-
+Total Detonation Ball /236M /0 /900 /All /18 /- /- /-4 /- /-
+Total Detonation Ball /236H /1 /900/1260/1750/2170/2520 [2520] /All /13 /- /- /-2/4/9/14/19 [19] /- /Level 0-4
+Hors d'Oeuvre Stab /214L /0 /500 [900] /All /15 /6 /- /-2 /- /[] With smash
+Hors d'Oeuvre Stab /214M /0 /550 [990] /All /17 /7 /- /-2 /- /[] With smash
+Hors d'Oeuvre Stab /214H /1 /600 [1080] /All /15 /7 /- /-2 /- /[] With smash
+Hors d'Oeuvre Stab /j214L /0 /500 [900] /All /15 /5 /- /-2 /- /[] With smash
+Hors d'Oeuvre Stab /j214M /0 /550 [990] /All /17 /6 /- /-2 /- /[] With smash
+Hors d'Oeuvre Stab /j214H /1 /600 [1080] /All /15 /7 /- /-2 /- /[] With smash
+Connoisseur Cut /236S /0 /1000 /Throw /27 /1 /- /- /- /-
+Connoisseur Cut /j236S /0 /1000 /Throw /16 /3 /- /- /- /-
+Aerial Connoisseur Cut /214S /0 /1000 /Throw /13 /9 /- /- /- /-
+Aerial Connoisseur Cut /j214S /0 /1000 /Throw /16 /9 /- /- /- /-
+Assist /A1/A2 /0 /900 /All /37 /- /- /- /- /- /-
+Kamehameha /236S/j236S Blue /0 /1098 /All /18 /25 /- /- /- /-
+Solar Flare /214S Blue /0 /0 /All /10 /5 /- /- /- /-
+Solar Flare /j214S Blue /0 /0 /All /9 /5 /- /- /- /-
+Explosive Energy Blast /236S Green /0 /800*2 [1600] /All /21 /- /- /- /- /-
+Explosive Energy Blast /j236S Green /0 /800*2 [1600] /All /15 /- /- /- /- /-
+Barrier /214S/j214S Green /0 /- /- /- /- /- /- /5-41[54] /[] When blocking attack
+Consecultive Energy Blast /236S/j236S Yellow /0 /1176 /All /15 /- /- /- /- /-
+Sticky Energy Blast /214S/j214S Yellow /0 /1400 /Throw /16 /5 /- /- /- /-
+Homing Energy Blast /236S/j236S Purple /0 /700 /All /23 /- /- /- /- /- /-
+Sonic Warp /214S/j214S Purple /0 /- /- /- /- /- /- /8-12 /-
+SUPER
+Photon Wave /236L+M /1 /2200 /792 /All /9+4 /20 /- /- /9-18 /-
+Sweet Tooth /214L+M /3 /3800 /1330 /All /11+3 /- /- /- /1-21 /Heals 500 blue health on hit
+Excellent Full Course /j214L+M /3 /4221 /1521 /All /11+3 /12 /- /- /1-30 /-
+END

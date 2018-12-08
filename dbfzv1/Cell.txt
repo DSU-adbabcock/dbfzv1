@@ -1,41 +1,42 @@
 Cell
-5L /400 /All /7 /5 /12 /-5 /- /0
-5LL /700 /All /9 /9 /20 /-5 /- /0
-5LLL /1000 /Throw /9 /3 /18 /- /0 /0
-5M /700 /All /9 /3 /18 /-5 /- /0
+5L /400 /All /7 /5 /12 /-5 /- /-
+5LL /700 /All /9 /9 /20 /-5 /- /-
+5LLL /1000 /Throw /9 /3 /18 /- /0 /-
+5M /700 /All /9 /3 /18 /-5 /- /-
 4MM /550 /All /9 /- /- /-5 /- /Extension from 5M
 5H /850 [1150] /All /14 /3 /21 /-8 /- /[] when fully held
-5S /300*1~5 [1500] /All /16 /- /24 /-4 /- /0
-2L /400 /Low /8 /3 /12 /-3 /- /0
-2M /700 /Low /12 /6 /18 /-8 /- /0
-2H /850 /All /13 /3 /31 /-18 /4-15 Air Strike /0
-2S /400*3 [1200] /All /18 /24 /15 /+2 /- /0
-6M /850 /High /24 /6 /10 /0 /- /0
-jL /400 /High /6 /3 /17 /- /- /0
-jM /700 /High /9 /3 /17 /- /- /0
-jH /850 /High /13 /8 /22 /- /- /0
-jS /650, 600 [1250] /All /17 /- /45 /- /- /0
-j2H /850 /All /15 /3 /19 /- /- /0
-6H /850 /Low /13 /3 /18 /-5 /- /0
+5S /300*1~5 [1500] /All /16 /- /24 /-4 /- /-
+2L /400 /Low /8 /3 /12 /-3 /- /-
+2M /700 /Low /12 /6 /18 /-8 /- /-
+2H /850 /All /13 /3 /31 /-18 /4-15 Air Strike /-
+2S /400*3 [1200] /All /18 /24 /15 /+2 /- /-
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /6 /3 /17 /- /- /-
+jM /700 /High /9 /3 /17 /- /- /-
+jH /850 /High /13 /8 /22 /- /- /-
+jS /650, 600 [1250] /All /17 /- /45 /- /- /-
+j2H /850 /All /15 /3 /19 /- /- /-
+6H /850 /Low /13 /3 /18 /-5 /- /-
 SPECIAL
-Hell Strike /j2M /0 /900 /High /33 /3 /30 /-3 /8-15 All /nothin personell, kid ;ladfkjsd;jasfkljsdfk dfkljkdsjfskjladjsf ;ljasdfkj dasfj ;lkjds fkljsdlfkjkl lkdjs fkljsdlkj lkj sdklfjsl jlkjs flkjsdf kl
-Rolling Crush /236L /0 /100*4, 700 [1100] /All*4, High /8 /2,2,2,2(8)3 /15 /-2 /- /0
-Rolling Crush /236M /0 /100*4, 900 [1300] /All*4, High /14 /2,2,2,2(8)3 /15 /-2 /- /0
-Rolling Crush /236H /1 /100*4, 1000 [1400] /All*4, High /10 /2,2,2,2(8)3 /15 /-2 /- /0
-Rolling Crush /j236L /0 /100*N, 700 /All*N, High /10,10 /(variable),3 /15 /-2 /- /0
-Rolling Crush /j236M /0 /100*N, 700 /All*N, High /19,13 /(variable),3 /15 /-2 /- /0
-Rolling Crush /j236H /1 /100*N, 700 /All*N, High /10,14 /(variable),3 /15 /-2 /- /0
-Perfect Attack /214L /0 /400, 400, 400 [1200] /All /12 /3 /30(whiff), 13(block) /-2 /- /0
-Perfect Attack /214M /0 /400, 400, 600 [1400] /All /12 /3 /36(whiff), 14(block) /-3 /- /0
-Perfect Attack /214H /1 /400, 700, 800 [1900] /All /12 /3 /32(whiff), 16(block) /-1 /- /0
-Perfect Attack /j214L /0 /500, 500 [1000] /All /12 /3 /26 /-13 /0 /0
-Perfect Attack /j214M /0 /500, 500 [1000] /All /12 /3 /32(whiff), 26(block) /-13 /- /0
-Perfect Attack /j214H /1 /500, 700, 1200 [2400] /All /12 /3 /32(whiff), 16(block) /-1 /- /0
+Hell Strike /j2M /0 /900 /High /33 /3 /30 /-3 /8-15 All /nothin personell, kid
+Rolling Crush /236L /0 /100*4, 700 [1100] /All*4, High /8 /2,2,2,2(8)3 /15 /-2 /- /-
+Rolling Crush /236M /0 /100*4, 900 [1300] /All*4, High /14 /2,2,2,2(8)3 /15 /-2 /- /-
+Rolling Crush /236H /1 /100*4, 1000 [1400] /All*4, High /10 /2,2,2,2(8)3 /15 /-2 /- /-
+Rolling Crush /j236L /0 /100*N, 700 /All*N, High /10,10 /(variable),3 /15 /-2 /- /-
+Rolling Crush /j236M /0 /100*N, 700 /All*N, High /19,13 /(variable),3 /15 /-2 /- /-
+Rolling Crush /j236H /1 /100*N, 700 /All*N, High /10,14 /(variable),3 /15 /-2 /- /-
+Perfect Attack /214L /0 /400, 400, 400 [1200] /All /12 /3 /30(whiff), 13(block) /-2 /- /-
+Perfect Attack /214M /0 /400, 400, 600 [1400] /All /12 /3 /36(whiff), 14(block) /-3 /- /-
+Perfect Attack /214H /1 /400, 700, 800 [1900] /All /12 /3 /32(whiff), 16(block) /-1 /- /-
+Perfect Attack /j214L /0 /500, 500 [1000] /All /12 /3 /26 /-13 /0 /-
+Perfect Attack /j214M /0 /500, 500 [1000] /All /12 /3 /32(whiff), 26(block) /-13 /- /-
+Perfect Attack /j214H /1 /500, 700, 1200 [2400] /All /12 /3 /32(whiff), 16(block) /-1 /- /-
 Kamehameha /236S /0 /262*5 [1310] /All /18 /25 /21(whiff), 33(block) /-16 /- /Aimable up
 Kamehameha /j236S /0 /262*5 [1310] /All /18 /25 /24(whiff), 36(block) /-19 /- /Aimable up
-Psycho Crash /214S /0 /150*8, 800 [2000] / Throw /30 /3 /25 /- /- /0
-Assist /A1/A2 /0 /200 * 5 [1000] /All /41 /25 /95 /- /0 /0
+Psycho Crash /214S /0 /150*8, 800 [2000] / Throw /30 /3 /25 /- /- /-
+Assist /A1/A2 /0 /200 * 5 [1000] /All /41 /25 /95 /- /- /-
 SUPER
-Energy Field /236L+M /1 /450*6 [2700] /810 /All /9+4 [13] /3,3,3,3,3,3 /43 /-28 /9-30 All /0
-Energy Field /j236L+M /1 /450*6 [2700] /810 /All /9+4 [13] /3,3,3,3,3,3 /41 /-26 /9-30 All /0
-Solar Kamehameha /214L+M /3 /220*19, 360 [4540] /1486 /All /9+3 [12] /85 /51 /-34 /1-19 All /0
+Energy Field /236L+M /1 /450*6 [2700] /810 /All /9+4 /3,3,3,3,3,3 /43 /-28 /9-30 All /-
+Energy Field /j236L+M /1 /450*6 [2700] /810 /All /9+4  /3,3,3,3,3,3 /41 /-26 /9-30 All /-
+Solar Kamehameha /214L+M /3 /220*19, 360 [4540] /1486 /All /9+3 /85 /51 /-34 /1-19 All /-
+END

@@ -1,0 +1,38 @@
+﻿Beerus
+5L /400 /All /6 /3 /12 /-3 /- /-
+5LL /700 /All /11 /3 /18 /-5 /- /-
+5LLL /1000 /All /32 /2 /19 /-5 /- /-
+5M /700 /All /12 /4 /17 /-5 /- /-
+5H /850 /All /15 /5 /17 /-6 /- /- 
+5S /500 /All /13 /- /21 /-2 /- /-
+2L /400 /Low /7 /3 /12 /-3 /- /-
+2M /700 /Low /13 /5 /27 /-16 /- /- 
+2H /850 /All /13 /3 /27 /-14 /- /-
+2S /400 /All /15 /- /23 /-2 /- /Summons orb
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /7 /3 /12 /-1 /- /-
+jM /700 /High /9 /3 /15 /0 /- /-
+jH /850 /High /13 /3 /21 /-8 /- /-
+jS /330*2~4 [1320] /All /13 /- /32 /-7 /- /-
+j2H /850 /All /15 /8 /22 /-9 /- /Goes diagonally upward
+SPECIAL
+Sphere of Destruction /236L /0 /400, 700 [1100] /All /18 /- /17 /-2 /- /-
+Sphere of Destruction /236M /0 /400, 700 [1100] /All /23 /- /13 /+2 /- /-
+Sphere of Destruction /236H /1 /400*2, 700 [1500] /All /23 /- /13 /+1 /- /Hold H to not kick, 2/8 to kick only 1
+Sphere of Destruction /j236L /0 /400, 700 [1100] /All /27 /- /21 /-6 /- /-
+Sphere of Destruction /j236M /0 /400, 700 [1100] /All /27 /- /27 /-12 /- /-
+Sphere of Destruction /j236H /1 /400*2, 700 [1500] /All /28 /- /20 /-12 /- /Similar to 236H grounded
+God of Destruction's Rampage /214L /0 /500*2 [1000] /All /18 /3+3 /18 /-5 /- /-
+God of Destruction's Rampage /214M /0 /550*2 [1100] /All /23 /5+3 /18 /-5 /- /-
+God of Destruction's Rampage /214H /1 /700*2 [1400] /All /23 /5+3 /18 /-5 /- /-
+God of Destruction's Rampage /j214L /0 /500*2 [1000] /All /16 /3 After Land /18 /-5 /- /-
+God of Destruction's Rampage /j214M /0 /550*2 [1100] /All /19 /3 After Land /18 /-5 /- /-
+God of Destruction's Rampage /j214H /1 /700*2 [1400] /All /16 /3 After Land /18 /-5 /- /-
+Spheres of Destruction /236S /0 /400*6 [2400] /All /37 /- /27 /-7 /- /Knock em around
+God of Destruction's Wrath /214S /0 /400*N /All /17 /- /38 /-35 /1-21 All /Can be thrown/supered
+God of Destruction's Wrath /j214S /0 /400*N /All /17 /- /32 /-15 /1-21 All /Can be thrown/supered
+Assist /A1/A2 /0 /400,250 [750] /All /40 /- /31 /- /- /-
+SUPER
+Beerus Ball /236L+M /1 /100*15, 1200 [2700] /810 /All /11+4 /- /35 /-19 /1-5 All /H+S to shoot down
+God of Destruction's Judgment /214L+M /3 /4800 /1680 /Throw /7+3 /1 /23 /- /1-12 All /-
+END

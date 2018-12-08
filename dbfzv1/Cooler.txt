@@ -1,0 +1,38 @@
+﻿Cooler
+5L /- /All /6 /- /- /- /- /-
+5LL /- /All /- /- /- /- /- /-
+5LLL /- /All /- /- /- /- /- /-
+5M /- /All /- /- /- /- /- /-
+5H /- /All /- /- /- /- /- /-
+5S /- /All /- /- /- /- /- /-
+2L /- /All /- /- /- /- /- /-
+2M /- /Low /- /- /- /- /- /-
+2H /- /All /- /- /- /- /- /-
+6M /- /High /- /- /- /- /- /-
+jL /- /High /- /- /- /- /- /-
+jM /- /High /- /- /- /- /- /-
+jH /- /High /- /- /- /- /- /-
+jS /- /All /- /- /- /- /- /-
+j2H /- /All /- /- /- /- /- /-
+SPECIAL
+Crushing Stomp /6H /0 /- /Low /- /- /- /- /- /Look ma, I'm Cell
+Genocidal Uppercut /3H /0 /- /All /- /- /- /- /- /Goes through beam/ki attacks
+Death Chaser /236L /0 /- /High /- /- /- /- /- /-
+Death Chaser /236M /0 /- /High /- /- /- /- /- /Sliding knockdown
+Death Chaser /236H /1 /- /High /- /- /- /- /- /Sliding knockdown
+Death Breaker /214L /0 /900 /All /- /- /- /- /1-end air /-
+Death Breaker /214M /0 /950 /All /- /- /- /- /1-end all /-
+Death Breaker /214H /1 /950 /All /- /- /- /- /1-end full /-
+Follow-up /Death Breaker->L /0 /350 /All /- /- /- /- /- /-
+Follow-up /Death Breaker->M /0 /300 /All /- /- /- /- /- /-
+Follow-up /Death Breaker->H /0 /300 /All /- /- /- /- /- /Different based on death breaker
+Death Flash /236S /0 /- /All /- /- /- /- /- /-
+Death Shaker /214S /0 /- /Low /- /- /- /- /- /fullscreen low lol
+Assist /A1/A2 /0 /800 /All /27 /- /- /- /10-end all /-
+SUPER
+Death Crasher /236L+M /1 /2420 /- /All /- /- /- /- /- /-
+Death Drop /j236L+M /1 /2000 /- /High /- /- /- /- /- /-
+Atomic Supernova Catch /214L+M /3 /- /- /- /- /- /- /- /- /counter
+Atomic Supernova Attack /214L+M /3 /4020 /- /- /- /- /- /- /- /-
+Atomic Supernova Air /j214L+M /3 /4770 /- /Throw /- /- /- /- /- /-
+END

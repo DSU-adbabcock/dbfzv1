@@ -227,6 +227,30 @@
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Android 16.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Android 17.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Android 18.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Android 21.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bardock.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Beerus.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Broly.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Cooler.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
     Other similar extension points exist, see Microsoft.Common.targets.

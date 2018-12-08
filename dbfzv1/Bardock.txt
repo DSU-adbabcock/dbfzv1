@@ -1,0 +1,31 @@
+﻿Bardock
+5L /400 /All /6 /- /- /-3 /- /-
+5LL /700 /All /- /- /- /-5 /- /-
+5LLL /1000 /All /- /18 /- /-5 /- /-
+5M /700 /All /12 /- /- /-4 /- /-
+5H /850 /All /15 /- /- /- /- /-
+5S /500 /All /- /- /- /- /- /-
+2L /400 /Low /7 /- /- /-4 /- /-
+2M /700 /Low /10 /- /- /-5 /- /-
+2H /850 /All /- /- /- /- /- /-
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /500*2 [1000] /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /500 /All /- /- /- /- /- /-
+j2H /850 /All /- /- /- /- /- /-
+SPECIAL
+Rebellion Spear /236L /0 /900 /All /10 /- /- /-4 /- /-
+Rebellion Spear /236M /0 /300,750 [1100] /All /8 /- /- /-15 /- /[] On far hit
+Rebellion Spear /236H /1 /300,750 [1100] /All /8 /- /- /-5 /- /[] On far hit. Can do followup attack on high with L/M/H
+Raging Meteor /214L /0 /50*4,900 [1100] /All*4, High /- /- /- /-4 /- /-
+Raging Meteor /214M /0 /50*6,900 [1200] /All*6, High /- /- /- /-4 /- /Sliding Knockdown
+Raging Meteor /214H /1 /50*6,1100 [1400] /All*6, High /- /- /- /-4 /- /Sliding Knockdown
+Tyrant Lancer /236S /0 /600*2 [1200] /All /26 /- /- /+4 /- /Only 1000 damage if only first hit comes out
+Charged Tyrant Lancer /236S /0 /800*2 [1600] /All /48 /- /- /+4 /- /Only 1500 damage if only first hit comes out
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /REAL fast
+SUPER
+Riot Javelin /236L+M /1 /2200 /814 /All /- /- /- /-21 /- /Can go into 1100/407min saiyan spirit
+Saiyan Spirit /236H+S /1 /1000,2120 [3120] /- /All /- /- /- /-19 /- /Second hit only works close
+Revenger Assault /214L+M /3 /4248 /- /All /- /- /- /-14 /- /MIXUPS
+END

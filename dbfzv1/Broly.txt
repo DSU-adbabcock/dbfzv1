@@ -1,0 +1,33 @@
+﻿Broly
+5L /500 /All /7 /- /- /- /- /-
+5LL /700 /All /10 /- /- /- /- /-
+5LLL /1000 /Throw /15 /- /- /- /- /-
+5M /700 /All /11 /6 /27 /- /- /1 hit of armor
+5H /850 /All /- /- /- /- /- /1 hit of armor. Chargable
+5S /300*1~6 [1800] /All /- /- /- /- /- /-
+2L /500 /All /8 /2 /17 /- /- /-
+2M /700 /Low /13 /2 /18 /- /- /Armor
+2H /850 /All /15 /2 /27 /- /- /Armor
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /500 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 [1000] /High /- /- /- /- /- /Armor. [] with smash
+jS /400*1~4 [1600] /All /- /- /- /- /- /-
+j2H /850 [1000] /All /- /- /- /- /- /Armor. [] with smash
+SPECIAL
+Lariat Express /236L /0 /1000 /All /- /- /- /- /- /Armor
+Lariat Express /236M /0 /1200 /All /- /- /- /- /- /Armor. 1000dmg on non-smash
+Lariat Express /236H /1 /1200 /All /- /- /- /- /- /Armor. 1000dmg on non-smash
+Gigantic Claw /214L /0 /1500 /Throw /- /- /- /- /- /-
+Gigantic Claw /214M /0 /1500 /Throw /- /- /- /- /- /-
+Gigantic Claw /214H /1 /1500 /Throw /- /- /- /- /- /Armor
+Gigantic Strike /j214L /0 /1800 /Throw /- /- /- /- /- /-
+Gigantic Strike /j214M /0 /1800 /Throw /- /- /- /- /- /-
+Gigantic Strike /j214H /1 /2300 /Throw /- /- /- /- /- /Armor
+Eraser Blow /236S /0 /300,1200 [1500] /All /- /- /- /- /- /Armor
+Powered Shell /214S /- /- /- /- /- /- /- /- /Absorbs all non-super projectiles until hit
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Eraser Cannon /236L+M /1 /600,2000 [2600] /820 /All /- /- /- /- /- /Armor before freeze
+Gigantic Meteor /214L+M /3 /100*N, 3500 /1600 /All /- /- /- /- /- /-
+END
