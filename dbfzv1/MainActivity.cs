@@ -15,9 +15,9 @@ namespace dbfzv1
     public class MainActivity : AppCompatActivity
     {
 
-        string[] characters = {"Android 16", "Android 17", "Android 18", "Android 21", "Bardock", "Beerus", "Broly", "Ginyu", "Cell", "Cooler", "Frieza", "Teen Gohan", "Adult Gohan", "Base Goku",
+        string[] characters = {"Notepad", "Android 16", "Android 17", "Android 18", "Android 21", "Bardock", "Beerus", "Broly", "Ginyu", "Cell", "Cooler", "Frieza", "Teen Gohan", "Adult Gohan", "Base Goku",
                                 "SSJ Goku", "Goku Blue", "Goku Black", "Gotenks", "Hit", "Kid Buu", "Krillin", "Majin Buu", "Nappa", "Piccolo", "Tien", "Trunks", "Base Vegeta", "SSJ Vegeta",
-                                "Vegeta Blue", "Vegito", "Yamcha", "Zamasu"};
+                                "Vegeta Blue", "Vegito", "Yamcha", "Zamasu"}; //notepad isn't a character but it was the easiest way to do this, fight me
 
 
         
@@ -33,9 +33,6 @@ namespace dbfzv1
             gridView = FindViewById<GridView>(Resource.Id.gridView);
             getCharList();
             gridView.Adapter = new ImageAdapter(this);
-
-            //BIND
-            //gridView.Adapter = adapter;
 
             gridView.ItemClick += gridView_ItemClick;
 
@@ -53,9 +50,18 @@ namespace dbfzv1
 
         void gridView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
         {
-            var charIntent = new Intent(this, typeof(displayFrameData));
-            charIntent.PutExtra("character", characters[e.Position]); //pass charname to displayFrameData activity to choose which char to display for
-            StartActivity(charIntent);
+            Intent charIntent;
+            if (e.Position == 0) //open notes
+            {
+                charIntent = new Intent(this, typeof(Notes));
+                StartActivity(charIntent);
+            }
+            else 
+            {
+                charIntent = new Intent(this, typeof(displayFrameData));
+                charIntent.PutExtra("character", characters[e.Position]); //pass charname to displayFrameData activity to choose which char to display for
+                StartActivity(charIntent);
+            }
         }
     }
 

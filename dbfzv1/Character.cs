@@ -52,12 +52,10 @@ namespace dbfzv1
 
         public string InitMoveList()
         {
-            // string fileName = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.LocalApplicationData), "Cell.txt");
-            // string lines = File.ReadAllLines(fileName);
             var assembly = IntrospectionExtensions.GetTypeInfo(typeof(MainActivity)).Assembly;
-            Stream stream = assembly.GetManifestResourceStream("dbfzv1." + name + ".txt");
+            Stream stream = assembly.GetManifestResourceStream("dbfzv1." + name + ".txt"); //get embedded char file
             string text = "";
-            using (var reader = new System.IO.StreamReader(stream))
+            using (var reader = new System.IO.StreamReader(stream)) //read in normals
             {
                 name = reader.ReadLine();
                 text = reader.ReadLine();
@@ -70,7 +68,7 @@ namespace dbfzv1
                     text = reader.ReadLine();
                 }
                 text = reader.ReadLine();
-                while (text != "SUPER")
+                while (text != "SUPER") //specials
                 {
                     //System.Diagnostics.Debug.WriteLine(text);
                     string[] data = text.Split(" /"); //name, input, meter, damage, guard, startup, active, recovery, advantage, invuln, notes
@@ -83,7 +81,7 @@ namespace dbfzv1
                     text = reader.ReadLine();
                 }
                 text = reader.ReadLine();
-                while(text != "END")
+                while(text != "END") //supers. I could have done reader.RealUntilEnd (or whatever that func is called) but this helped error check
                 {
                     System.Diagnostics.Debug.WriteLine(text);
                     string[] data = text.Split(" /"); //name, input, meter, damage, minDamage, guard, startup, active, recovery, advantage, invuln, notes

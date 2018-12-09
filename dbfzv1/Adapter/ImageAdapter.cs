@@ -62,7 +62,8 @@ namespace dbfzv1.Adapter
 
         // references to our images
         int[] thumbIds = {
-         Resource.Drawable.a16,
+         Resource.Drawable.notepad,
+         Resource.Drawable.a16, //twitter hashtag notation ;)
          Resource.Drawable.a17,
          Resource.Drawable.a18,
          Resource.Drawable.a21,
@@ -73,7 +74,7 @@ namespace dbfzv1.Adapter
          Resource.Drawable.cel,
          Resource.Drawable.clr,
          Resource.Drawable.fza,
-         Resource.Drawable.tgn,
+         Resource.Drawable.tgn, //yes i know i messed up a few
          Resource.Drawable.agh,
          Resource.Drawable.gkn,
          Resource.Drawable.gku,

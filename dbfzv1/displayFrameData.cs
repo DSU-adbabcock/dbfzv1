@@ -26,36 +26,26 @@ namespace dbfzv1
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.frame_page);
 
-            //ListAdapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleExpandableListItem1, countries);
-
-           // ListView.TextFilterEnabled = true;
-
-
             string characterName = Intent.GetStringExtra("character") ?? string.Empty;
             Character character = new Character(characterName);
             character.InitMoveList();
 
-
-           // var toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
-            //SetSupportActionBar(toolbar);
-            //SupportActionBar.Title = "Expandable ListView";
             expandableListView = FindViewById<ExpandableListView>(Resource.Id.expandableListView);
 
-            testSetup(character, out mAdapter);
+            Setup(character, out mAdapter);
 
             expandableListView.SetAdapter(mAdapter);
-            // Create your application here
         }
 
-        private void testSetup(Character character, out ExpandableListViewAdapter mAdapter)
+        private void Setup(Character character, out ExpandableListViewAdapter mAdapter)
         {
             List<List <string>> moveData = new List<List<string>>(); //a list of lists. used to store list of data for each move.
             int i = 0;
 
             foreach(Move move in character.MoveList)
             {
-                List<string> tempList = new List<string>();
-                Type t = move.GetType();
+                List<string> tempList = new List<string>(); 
+                Type t = move.GetType(); //since each move can be 1 of 3 types we have to do some silly stuff to get tmp to be the correct type in a way the compiler can handle
 
                 if (t.Equals(typeof(SuperMove)))
                 {
@@ -92,21 +82,13 @@ namespace dbfzv1
                     tempList.Add("Recovery: " + tmp.Recovery);
                     tempList.Add("Advantage: " + tmp.Advantage);
                     tempList.Add("Meter: " + tmp.Meter);
-                    tempList.Add("Notes: " + tmp.Notes);
+                    tempList.Add("Comments: " + tmp.Notes);
                 }
                 
 
-                dict.Add(headers[i], tempList);
+                dict.Add(headers[i], tempList); //binds header to expandable list of data
                 i++;
             }
-            
-        //  for(int i = 0; i <= headers.Count(); i++)
-          //  {
-            //    dict.Add(headers[i], moveData[i]);
-            //}
-
-           // dict.Add(headers[0], listA);
-            //dict.Add(headers[1], listB);
 
             mAdapter = new ExpandableListViewAdapter(this, headers, dict);
 
