@@ -1,0 +1,32 @@
+﻿Base Vegeta
+5L /400 /All /6 /- /- /-2 /- /-
+5LL /700 /All /- /- /- /-5 /- /-
+5LLL /1000 /All /- /- /- /-18 /- /-
+5M /700 /All /9 /- /- /-5 /- /-
+5H /850 /All /13 /- /- /-8 /- /-
+5S /300*1~8 [2400] /ALl /13 /- /- /-3 /- /-
+2L /400 /Low /7 /- /- /-4 /- /-
+2M /700 /Low /10 /- /- /-6 /- /-
+2H /850 /All /13 /- /- /-14 /- /-
+2S /500 /All /12 /- /- /-6 /- /Shallow angle with 1S/3S
+6M /850 /High /24 /- /- /0 /- /-
+jL /400 /High /6 /- /- /- /- /-
+jM /700 /High /9 /- /- /- /- /-
+jH /850 /High /13 /- /- /- /- /-
+jS /500 /All /12 /- /- /- /- /-
+j2H /850 /All /13 /- /- /- /- /-
+j2S /500 /All /13 /- /- /- /- /Can aim with 1S
+SPECIAL
+Super Dash Kick /236L /0 /800 /All /11 /- /- /- /- /-
+Super Dash Kick /236M /0 /900 /All /15 /- /- /-9 /- /-
+Super Dash Kick /236H /1 /1000 /All /29 /- /- /-9 /- /-
+Deadly Knee Drop /214L /0 /800 /High /26 /- /- /- /- /Hold forward to alter
+Deadly Knee Drop /214M /0 /1000 /High /29 /- /- /- /- /Hold forward to alter, sliding KD
+Deadly Knee Drop /214H /1 /1000 /High /26 /- /- /- /- /Hold forward to alter, silind KD
+Energy Cutter /236S /0 /1000 /All /22 /- /- /- /- /Aim with 8/2
+I have no use for Saiyans that can't move /214S /0 /0 /Throw /18 /- /- /- /- /Sorry Nappa
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Galick Gun /236L+M /1 /2296 /- /All /- /- /- /- /- /-
+Galaxy Breaker /214L+M /3 /4224 /- /All /- /- /- /- /- /-
+END

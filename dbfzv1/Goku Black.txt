@@ -1,0 +1,34 @@
+﻿Goku Black
+5L /400 /All /6 /- /- /-2 /- /-
+5LL /700 /All /11 /- /- /-5 /- /-
+5LLL /1000 /All /14 /- /- /-5 /- /-
+5M /700 /All /10 /- /- /- /- /-
+5H /850 /All /14 /- /- /- /- /-
+5S /850 /All /13 /- /- /- /- /Projectile does 600
+2L /400 /All /8 /- /- /- /- /-
+2M /700 /Low /12 /- /- /- /- /-
+2H /850 /All /18 /- /- /- /- /-
+6M /850 /High /24 /- /- /- /- /-
+jL /400 /High /6 /- /- /- /- /-
+jM /700 /High /9 /- /- /- /- /-
+jH /850 /High /13 /- /- /- /- /-
+jS /600 /All /13 /- /- /- /- /-
+j2H /850 /All /13 /- /- /- /- /-
+SPECIAL
+God Slicer /236L /0 /250,800 [1050] /All /- /- /- /- /- /-
+God Slicer /236M /0 /250*4,800 [1800] /All /- /- /- /- /- /-
+God Slicer /236H /1 /250*4,800 [1800] /All /- /- /- /- /- /-
+Instant Transmission /214L /0 /- /- /- /- /- /- /- /Close Front
+Instant Transmission /214M /0 /- /- /- /- /- /- /- /Far Front
+Instant Transmission /214H /1 /- /- /- /- /- /- /- /Crossup
+Fierce God Kick /j214L /0 /900 /All /- /- /- /- /- /-
+Fierce God Kick /j214M /0 /1120 /All /- /- /- /- /- /-
+Fierce God Kick /j214H /1 /1300 /All /- /- /- /- /- /-
+Black Kamehameha /236S /0 /262*5 [1310] /All /- /- /- /- /- /-
+Binding Black Kamehameha /214S /0 /262*5 [1310] /Throw, All /- /- /- /- /- /Command grab and beam
+Assist /A1/A2 /0 /1000 /All /- /- /- /- /- /-
+SUPER
+God Slicer Dance /236L+M /1 /50*18, 1600-2000 [2900] /- /All /- /- /- /- /- /Last hit damage varies based on needles hit
+Holy Light Grenade /236H+S /1 /1000,1600 [2600] /780 /All /- /- /- /- /- /-
+The Work of a God /214L+M /3 /4015 /1512 /All /- /- /- /- /- /-
+END

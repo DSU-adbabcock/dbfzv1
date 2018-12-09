@@ -1,0 +1,32 @@
+﻿Vegeta Blue
+5L /400 /All /6 /3 /- /-3 /- /-
+5LL /700 /All /8 /3 /- /-4 /- /-
+5LLL /1000 /All /13 /3 /- /-4 /- /-
+5M /700 /All /9 /6 /- /-6 /- /-
+5H /850 /All /14 /3 /- /-8 /- /-
+5S /500 /All /13 /- /- /-5 /- /-
+2L /400 /Low /7 /3 /- /-3 /- /-
+2M /700 /Low /10 /4 /- /-6 /- /-
+2H /850 /All /13 /2 /- /17 /- /-
+2A /500 /All /13 /- /- /-5 /- /-
+6M /850 /High /24 /6 /- /0 /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /500 /All /- /- /- /- /- /-
+j2H /850 /All /- /- /- /- /- /-
+j2S /500 /All /- /- /- /- /- /-
+SPECIAL
+Super Dash Kick /236L /0 /500 /All /12 /3 /- /-5 /- /Followups availiable
+Super Dash Kick /236M /0 /500 /All /15 /3 /- /+2 /- /Followups availiable
+Super Dash Kick /236H /1 /600 /All /11 /4 /- /-5 /- /Followups availiable
+On a scale of one to ten, I'll give you a three! /214L /0 /1200 /Throw /25 /1 /- /- /- /COME ON AND SLAM
+On a scale of one to ten, I'll give you a three! /214M /0 /1200 /Throw /22 /5 /- /- /- /COME ON AND SLAM
+On a scale of one to ten, I'll give you a three! /214H /1 /1000, 800 [1800] /Throw /20 /5 /- /- /- /COME ON AND SLAM
+Big Bang Attack /236S /0 /300, 1400 [1700] /All /14 /- /- /-13 /- /Hitbox while charging
+Assist /A1/A2 /0 /100, 1000 [1100] /All /- /- /- /- /- /-
+SUPER
+Niagara Pummel /236L+M /1 /2220 /- /All /- /- /- /- /- /Hold down to only do first punch
+Galick Gun /236H+S /1 /280*10 [2800] /810 /All /- /- /- /- /- /-
+Final Flash /214L+M /3 /4400 /1440 /All /- /- /- /- /- /Hold down to spend 2 bars for more damage
+END

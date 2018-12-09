@@ -1,0 +1,32 @@
+﻿Nappa
+5L /400 /Low /7 /3 /- /-4 /- /-
+5LL /700 /All /11 /3 /- /-8 /- /-
+5LLL /1000 /All /15 /4 /- /-6 /- /-
+5M /700 /Low /14 /6 /- /-5 /- /-
+5H /850 /All /15 /3 /- /-9 /- /-
+5S /800 /All /25 /- /- /- /- /-
+2L /400 /All /8 /3 /- /-2 /- /-
+2M /700 /Low /15 /4 /- /-8 /- /-
+2H /850 /All /13 /4 /- /-14 /- /-
+6M /850 /High /24 /6 /- /0 /- /-
+jL /400 /High /6 /3 /- /- /- /-
+jM /700 /High /11 /3 /- /- /- /-
+jH /850 /High /13 /4 /- /- /- /-
+jS /800 /All /23 /- /- /- /- /-
+j2H /650,650 [1300] /ALl /26 /- /- /- /- /Input 2H again to only do first hit
+SPECIAL
+Arm Break /236L /0 /1000 /High /24 /3 /- /-6 /- /-
+Arm Break /236M /0 /600,800 [1400 /High /26 /- /- /-6 /- /-
+Arm Break /236H /1 /700,900 [1600] /High /26 /- /- /-2 /- /-
+Saibamen /214L /0 /- /- /- /- /- /- /- /Plants a Saibaman
+Saibamen /214M /0 /- /- /- /- /- /- /- /Plants a Saibaman
+Saibamen /214H /1 /- /- /- /- /- /- /- /Plants a Saibaman
+Blazing Storm /236S /0 /1100 /All /22 /10 /- /0 /- /-
+Blazing Storm /j236S /0 /1100 /All /28 /10 /- /- /- /-
+Too Bad /214S /0 /600,800 [1400] /All /15 /- /- /-6 /- /-
+Too Bad /j214S /0 /1000 /All /- /- /- /- /- /-
+Assist /A1/A2 /0 /850 /All /34 /10 /- /- /- /-
+SUPER
+Giant Storm /236L+M /1 /2300 /- /All /10+5 /5 /- /-21 /9-20 All /-
+Break Cannon /214L+M /3 /4278 /- /All /10+3 /3 /- /-24 /1-15 All /-
+END

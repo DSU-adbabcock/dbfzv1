@@ -1,0 +1,30 @@
+﻿SSJ Vegeta
+5L /400 /All /6 /3 /10 /-3 /- /-
+5LL /700 /All /14 /4 /13 /-2 /- /-
+5LLL /1000 /All /12 /3 /23 /-5 /- /-
+5M /700 /All /9 /6 /15 /-6 /- /-
+5H /850 /All /14 /6 /18 /-8 /- /-
+5S /250*1~8 [2000] /All /13 /- /- /-4 /- /-
+2L /400 /Low /7 /3 /12 /-4 /- /-
+2M /700 /Low /10 /4 /18 /-6 /- /-
+2H /850 /All /13 /3 /30 /-17 /- /-
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /6 /3 /- /- /- /-
+jM /700 /High /10 /4 /- /- /- /-
+jH /850 /High /13 /6 /- /- /- /-
+jS /250*1~5 [1250] /All /12 /- /- /- /- /-
+j2H /850 /All /12 /3 /- /- /- /-
+SPECIAL
+Interceptor Kick /j2L /0 /900 /All /18 /- /- /- /- /FALCON KICK
+Super Dash Kick /236L /0 /900 /All /11 /6 /27 /-22 /- /-
+Super Dash Kick /236M /0 /300*2, 500 [1100] /All /11 /- /- /-9 /- /-
+Super Dash Kick /236H /1 /1000 /All /16 /- /- /-17 /- /-
+Crushing Knee Kick /214L /0 /900 /All /10 /9 /- /-28 /1-end air /Air OK
+Crushing Knee Kick /214M /0 /800,300 [1100] /All /16 /12 /30 /- /1-10 All /Air OK
+Crushing Knee Kick /214H /1 /800, 100*5, 300 [1600] /All /9 /22 /55 /- /1-11 All /Air OK
+Consecutive Energy Blast /236S /0 /80*16 [1280] /All /19 /- /- /-4 /- /-
+Assist /A1/A2 /0 /130*8 [1040] /All /38 /- /- /- /- /Extensions ferdeyz
+SUPER
+Big Bang Attack /236L+M /1 /2200 /814 /All /- /- /- /-33 /- /H+S to aim down in air
+Final Flash /214L+M /3 /220*20 [4400] /1440 /All /- /- /- /-34 /- /-
+END

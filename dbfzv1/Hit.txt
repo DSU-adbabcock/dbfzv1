@@ -1,0 +1,37 @@
+﻿Hit
+5L /400 /All /6 /- /- /-3 /- /-
+5LL /700 /All /10 /- /- /-5 /- /-
+5LLL /350*2, 450 [1150] /ALl /10 /- /- /-5 /- /-
+5M /700 /All /10 /- /- /-2 /- /-
+5H /850 /All /14 /- /- /-8 /- /-
+5S (Parry) /- /- /4 /- /- /- /- /-
+5S (Attack) /850 /All /- /- /- /- /- /-
+2L /700 /High /20 /- /- /-5 /- /-
+2M /700 /Low /27 /- /- /-5 /- /-
+2H /850 /All /13 /- /- /-14 /- /-
+6M /850 /High /24 /- /- /0 /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /- /- /- /- /- /- /- /Parry, no autoattack after
+j2H /850 /All /- /- /- /- /- /-
+SPECIAL
+Vital Point Attack /236L /0 /- /- /10 /- /- /- /- /-
+Direct Hit /236L->L /0 /1000 /All /6 /- /- /-2 /- /-
+Instant Blow /236L->M /0 /1100 /All /8 /- /- /-4 /- /-
+Guard Breaker /236L->H /1 /1200 /All /7 /- /- /-5 /1-end /-
+Tides of Time /236M/H /0/1 /- /- /27 /- /- /- /After startup /-
+Time Release /236M/H->2/5/8L /0 /700*1~3 [2100] /All[High] /- /- /- /- /- /[] on 2L hit
+Instant Blow /236M/H->M /0 /1100 /All /19 /- /- /- /- /-
+Guard Breaker /236M/H->H /1 /1200 /All /20 /- /- /- /- /-
+Icy Glare /214L /0 /200*7 [1400] /Unblockable /31 /- /- /- /- /-
+Icy Glare /214M /0 /200*7 [1400] /Unblockable /35 /- /- /- /- /-
+Icy Glare /214H /0 /260*7 [1820] /Unblockable /31 /- /- /- /- /Hold for more ice
+Deadly Intent /236S /0 /- /- /- /- /- /- /From Startup-All /Dash, can enter stance
+Mark of an Assasin /214S /0 /- /- /- /- /- /- /- /Backdash
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Realized Power /236L+M /1 /550*4 [2200] /812 /All /- /- /- /- /- /-
+Death Blow /236H+S /1 /2564 /564 /All /- /- /- /- /- /-
+I Keep Improving /214L+M /3 /4300 /1575 /All /- /- /- /- /- /Freezes sparking recovery
+END

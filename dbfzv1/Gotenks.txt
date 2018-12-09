@@ -1,0 +1,35 @@
+﻿Gotenks
+5L /400 /All /6 /3 /- /-3 /- /-
+5LL /700 /All /10 /3 /- /-5 /- /-
+5LLL /1000 /All /13 /9 /- /-9 /- /-
+5M /700 /All /9 /6 /- /-6 /- /-
+5H /850 [1275] /All /13 /6 /- /-8 /- /[] When held
+5S /350*1~4 [1400] /All /14 /- /- /-4 /- /-
+2L /400 /Low /7 /3 /- /-4 /- /-
+2M /700 /Low /11 /6 /- /-7 /- /-
+2H /850 /All /14 /- /- /-19 /- /-
+6M /850 /High /24 /6 /- /0 /- /-
+jL /300*3 [900] /High /7 /- /- /- /- /-
+jM /700 /High /9 /3 /- /- /- /-
+JH /850 /High /13 /6 /- /- /- /-
+jS /600 /All /15 /- /- /- /- /6S to roll forward
+j2H /850 /All /13 /4 /- /- /- /-
+SPECIAL
+Miracle Super Punch /236L /0 /100*4 [800] /All /9 /- /- /-5 /- /[] on hold
+Miracle Super Punch /236M /0 /50*8 [800] /All /9 /- /- /- /- /[] on hold
+Miracle Super Punch /236H /1 /50*8 [900] /All /9 /- /- /+3 /- /[] on hold
+Great Special Rolling Kick /214L /0 /40*7, 450 [730] /All /10 /- /- /-3 /- /-
+Great Special Rolling Kick /214M /0 /40*11, 450 [990] /All /10 /- /- /- /- /-
+Great Special Rolling Kick /214H /1 /40*14, 450 [1110] /All /10 /- /- /- /- /-
+Great Special Rolling Kick /j214L /0 /40*6, 450 [690] /All /10 /- /- /- /- /-
+Great Special Rolling Kick /j214M /0 /40*11, 450 [990] /All /10 /- /- /- /- /-
+Great Special Rolling Kick /j214H /1 /40*14, 450 [1110] /All /10 /- /- /- /- /-
+Vengeful Shout /236S /0 /262*5 [1310] /All /17 /20 /- /-19 /- /Hold to fake
+Galactic Donut /214S /0 /600*2 [1200] /All /29 /- /- /+7 /- /-
+DIE DIE Missile Barrage /j214S /0 /110*12 /1330 /All /16 /- /- /- /This name lol
+Assist /A1/A2 /0 /900 /All /50 /- /- /- /- /-
+SUPER
+Super Ghost Kamikaze Attack /236L+M /1 /400*6 [2400] /- /All /9+4 /- /- /- /- /6 Ghosts, uncontrollable
+Super Ghost Kamikaze Attack /236H+S /1 /600*4 [2400] /- /All /- /- /- /- /- /4 Ghosts, correspond to buttons
+Charging Ultra Volleyball /214L+M /3 /3930 /- /All /9+3 /- /- /- /- /Takes ~47 years
+END

@@ -1,0 +1,36 @@
+﻿Frieza
+5L /400 /All /7 /3 /- /- /- /-
+5LL /700 /All /10 /5 /- /- /- /-
+5LLL /1000 /All /13 /3 /- /- /- /hits fullscreen
+5M /700 /All /13 /5 /- /- /- /- /-
+5H /150, 100*8 [950] /All /9 /- /- /- /- /Shoots rocks
+5S /300*1~6 [1800] /All /15 /- /- /- /- /-
+2L /400 /Low /8 /3 /- /- /- /-
+2M /600*2 [1200] /Low /10 /4 /- /- /- /-
+2H /850 /All /17 /3 /- /- /- /-
+2S /700 /All /15 /- /25 /- /- /-
+6M /850 /High /24 /6 /- /- /- /-
+jL /400 /High /7 /4 /- /- /- /-
+jM /600*2 [1200] /High /8 /3 /- /- /- /-
+jH /850 /High /13 /5 /- /- /- /-
+jS /500*1~3 [1500] /High /13 /5 /- /- /- /-
+j2H /850 /High /18 /5 /- /- /- /-
+j2S /600 /All /14 /- /23 /- /- /-
+SPECIAL
+Death Slash /236L /0 /1100 /All /18 /5 /30 /- /- /-
+Death Slash /236M /0 /1100 /All /18 /5 /35 /- /- /-
+Death Slash /236H /1 /1000*2 [2000} /All /14 /9 /23 /- /- /-
+You Might Not Survive This Time /236S /0 /300*4 [1250] /All /17 /- /- /- /- /[] On point blank
+You Might Not Survive This Time /j236S /0 /300*4 [1250] /All /13 /- /- /- /- /[] On point blank
+Death Saucer /214S /0 /700*2, 700*2 [2800] /All /38 /- /- /- /- /Discs come back and can hurt Frieza
+Warp Smash /22S /0 /900 /All /34 /- /- /- /- /6-18 All /-
+Assist /A1/A2 /0 /800 /All /24 /- /- /- /- /-
+SUPER
+Death Ball /236L+M /1 /30*N, 2000 /- /All /8+4 /- /- /- /- /-
+Death Ball /j236L+M /1 /30*N, 2000 /- /All /7+4 /- /- /- /- /-
+Nova Strike /214L+M /3 /4200 /1470 /High /12+1 /6 /- /- /1-7 After Land /- 
+Nova Strike /j214L+M /3 /4200 /1470 /High /12+1 /6+ /- /- /1-7 After Land /- 
+You Must Die By My Hand /Hold H+S while knocked down /3 /480*10 [4800] /1920 /All /38+2 /45 /- /- /During Active /-
+Golden Frieza /214H+S /3 /- /- /- /1+0 /- /4 /- /- /20% Damage buff + Reverse Beat + 2 Airdashes
+Sorbet's Ray Gun /S when Golden Frieza ends /1 /1200 /- /All /8+0 /- /- /- /- /-
+END

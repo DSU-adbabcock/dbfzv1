@@ -1,0 +1,31 @@
+﻿SSJ Goku
+5L /400 /All /6 /3 /- /-3 /- /-
+5LL /700 /All /- /3 /- /-4/ /- /-
+5LLL /1000 /All /- /18 /- /-5 /- /-
+5M /700 /All /9 /17 /- /-7 /- /-
+5H /850 /All /14 /22 /- /-8 /- /-
+5S /300*1~6 [1800] /All /13 /- /- /-4 /- /-
+2L /400 /All /6 /10 /- /-3 /- /-
+2M /700 /Low /10 /17 /- /-5 /- /-
+2H /850 /Al /- /- /- /- /- /-
+2S /600 /All /13 /- /- /-1 /- /-
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /600 /All /- /- /- /- /- /-
+j2H /850 /All /14 /19 /- /-17 /- /-
+SPECIAL
+Dragon Flash Fist /236L /0 /900 /High /24 /18 /- /-5 /- /-
+Dragon Flash Fist /236M /0 /1000 /High /26 /18 /- /-5 /- /-
+Dragon Flash Fist /236H /1 /1100 /High /24 /18 /- /-5 /- /-
+Flurry Kick /214L /0 /470*2 [940] /All /10 /13 /- /-3 /- /-
+Flurry Kick /214M /0 /270*4 [1080] /All /13 /- /- /- /- /-
+Flurry Kick /214H /1 /240*6 [1440] /All /11 /- /- /- /- /-
+Kamehameha /236S /0 /262*5 [1310] /All /18 /- /- /-16 /- /Air OK and aimable up
+Assist /A1/A2 /0 /1000 /All /- /- /- /- /- /-
+SUPER
+Super Kamehameha /236L+M /1 /2500 /750 /All /- /- /- /-19 /- /Same as special with aiming etc
+Warp Kamehameha /236H+S /1 /2700 /810 /All /- /- /- /- /- /-
+Meteor Smash /214L+M /3 /4208 /1548 /All /- /- /- /-14 /- /-
+END

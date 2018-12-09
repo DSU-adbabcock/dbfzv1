@@ -1,0 +1,35 @@
+﻿Krillin
+5L /400 /All /6 /3 /- /- /- /-
+5LL /700 /All /9 /5 /- /- /- /-
+5LLL /1000 /All /11 /4 /- /- /- /-
+5M /700 /All /8 /6 /- /- /- /-
+5H /850 /All /13 /3 /- /- /- /-
+5S /500*2 [1000] /All /14 /0 /- /- /- /Press S to redirect
+2L /400 /Low /7 /3 /- /- /- /-
+2M /700 /Low /10 /5 /- /- /- /-
+2H /850 /All /13 /3 /- /- /- /-
+2S /600 /All /17 /5 /- /- /- /-
+6M /850 /High /24 /6 /- /- /- /-
+jL /400 /High /6 /3 /- /- /- /-
+jM /500*2 [1000] /High /9 /- /- /- /- /-
+jH /850 /High /13 /6 /- /- /- /-
+jS /500*2[1000] /All /14 /- /- /- /- /Press S to redirect
+j2H /850 /All /13 /6 /- /- /- /-
+j2S /300,850 [1150] /All /15 /- /- /- /- /-
+SPECIAL
+Afterimage /236L /0 /1000 /High /30 /4 /- /- /- /Hold to change
+Afterimage /236M /0 /1000 /High /32 /4 /- /- /- /Hold to change
+Afterimage /236H /1 /1100 /High /30 /4 /- /- /- /Hold to change
+Afterimage /j236L /0 /1000 /High /23 /4 /- /- /- /-
+Afterimage /j236M /0 /1000 /High /27 /4 /- /- /- /-
+Afterimage /j236H /1 /1000 /High /21 /4 /- /- /- /-
+Senzu Bean /214L /0 /100 /All /23 /- /- /- /- /Air OK. Throws bean to A1 if they have blue health
+Senzu Bean /214M /0 /100 /All /23 /- /- /- /- /Air OK. Throws bean to A2 if they have blue health
+Senzu Bean /214H /1 /100 /All /12 /- /- /- /- /Air OK. Bounces bean back to krillin if has blue health
+Kamehameha /236S /0 /250*5 [1250] /All /18 /25 /- /- /- /Can be charged
+Solar Flare /214S /0 /0 /All /11 /5 /25 /- /- /Stuns opponent
+Assist /A1/A2 /0 /100 /All /21 /- /- /- /- /Senzu bean
+SUPER
+Destructo Disc /236L+M /1-5 /2000 /- /All /9+5 /- /- /- /9-15 All /Can throw more discs for meter
+Scattering Energy Wave /214L+M /3 /4050 /1500 /All /9+3 /- /- /- /1-21 All /-
+END

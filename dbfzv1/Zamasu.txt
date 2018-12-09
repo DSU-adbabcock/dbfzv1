@@ -1,1 +1,32 @@
-﻿Bobobobo
+﻿Zamasu
+5L /400 /All /7 /- /- /- /- /-
+5LL /700 /All /9 /- /- /- /- /-
+5LLL /1000 /All /13 /- /- /- /- /-
+5M /700 /All /12 /- /- /- /- /-
+5H /850 /All /15 /- /- /- /- /-
+5S /500 /All /14 /- /- /- /- /-
+2L /400 /Low /8 /- /- /- /- /-
+2M /700 /Low /- /- /- /- /- /-
+2H /850 /All /15 /- /- /- /- /-
+6M /850 /High /24 /- /- /0 /- /-
+jL /400 /High /7 /- /- /- /- /-
+jM /700 /High /10 /- /- /- /- /-
+jH /850 [1000] /High /13 /- /- /- /- /[] On smash
+jS /400*1~3 [1200] /All /15 /- /- /- /- /-
+j2H /850 [1000] /High /18 /- /- /- /- /[] On smash
+SPECIAL
+Eternal Justice /236L /0 /900 /All /16 /- /- /-4 /- /S to trigger Heaven's Flash
+Eternal Justice /236M /0 /1000 /All /20 /- /- /-4 /- /Sliding KD, S to trigger Heaven's Flash
+Eternal Justice /236H /1 /1200 /All /16 /- /- /-4 /- /Sliding KD, S to trigger Heaven's Flash
+Wall of Light /214L /0 /700*2 [1400] /All /35 /- /- /- /- /Orbs trigger on frame 126
+Wall of Light /214M /0 /700*2 [1400] /All /38 /- /- /- /- /Orbs trigger on frame 219
+Wall of Light /214H /1 /700*2,700*2 [2800] /All /35 /- /- /- /- /Both L and M versions at once
+Divine Order /236S /0 /900 /All /19 /- /- /-7 /- /-
+Divine Order (Charged) /236S /0 /900,900 [1800] /All /26 /- /- /-5 /- /-
+Heaven's Flash /214S /0 /- /- /26 /- /- /- /- /Fly. L/M/H For Eternal Justice, 4L/M/H for Wall of Light, S for jS, 1/2/3H for 2H, 6S for Divine Order, 4S for unfly
+Assist /A1/A2 /0 /800 /All /35 /- /- /- /- /Can't be superdashed
+SUPER
+Divine Wrath /236L+M /1 /700, 400*3, 800 [2700] /810 /All /- /- /- /- /- /-
+Blades of Judgment /236H+S /1 /100*N, 350*N /- /All /- /- /- /- /- /Basically Hellzone
+Lightning of Absolution /214L+M /3 /3900 /- /All /- /- /- /- /- /Tracks anywhere in front of Zamasu
+END

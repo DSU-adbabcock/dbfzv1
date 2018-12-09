@@ -1,0 +1,38 @@
+﻿Piccolo
+5L /400 /All /6 /3 /12 /-3 /- /-
+5LL /700 /All /9 /3 /15 /-2 /- /-
+5LLL /1000 /All /15 /3 /18 /-5 /- /-
+5M /700 /All /10 /3 /18 /-5 /- /-
+5H /850 /All /15 /4 /21 /-9 /- /-
+5S /500 /Throw //28 /7 /19 /- /- /-
+2L /400 /Low /7 /4 /12 /-4 /- /-
+2M /700 /Low /10 /4 /18 /-6 /- /-
+2H /850 /All /13 /3 /31 /-18 /- /-
+2S /500,800 [1300] /Throw /19 /7 /17 /- /- /-
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /6 /3 /14 /-3 /- /-
+jM /500*2 [1000] /High /10 /- /19 /+5 /- /-
+jH /850 /High /13 /6 /20 /-6 /- /-
+jS /500 /Throw /24 /7 /21 /- /- /-
+j2H /850 /All /11 /4 /30 /-15 /- /-
+SPECIAL
+Demon Shocker /6S/3S /0 /350*3 [1050] /All /16 /10 /24 /-5 /- /-
+Demon Elbow /236L /0 /900 /All /30 /4 /17 /-2 /- /-
+Demon Elbow /236M /0 /1000 /All /31 /6 /17 /-2 /- /-
+Demon Elbow /236H /1 /1100 /All /29 /4 /17 /-2 /- /-
+Demon Elbow /j236L /0 /900 /All /30 /4 /18 /-3 /- /-
+Demon Elbow /j236M /0 /1000 /All /31 /6 /17 /-2 /- /-
+Demon Elbow /j236H /1 /1100 /All /29 /4 /19 /-4 /- /-
+Demon Slicer /214L /0 /900 /All /- /7 /16 /-4 /- /-
+Demon Slicer /214M /0 /1000 /High /- /6 /15 /-4 /- /-
+Demon Slicer /214H /1 /1100 /All /- /7 /22 /-10 /- /-
+Demon Slicer /j214L /0 /900 /All /16 /8+ /16 /-4 /- /-
+Demon Slicer /j214M /0 /1000 /High /19 /8+ /16 /-4 /- /Sliding KD
+Demon Slicer /j214H /1 /1100 /All /16 /8+ /16 /-4 /- /Sliding KD
+Homing Energy Blast /236S /0 /700 /All /19 /- /22 /-2 /- /Can be charged
+Assist /A1/A2 /0 /700 /All /27 /- /46 /- /- /-
+SUPER
+Special Beam Cannon /236L+M /1 /250*10 [3800] /1140 /All /11+4 /34 /33 /-17 /- /Can be charged, can teleport around while charging. [] While charged
+Hellzone Grenade /236H+S /1 /260*12 [3120] /624 /All /9+17 /- /16 /+73 /- /-
+Light Grenade /214L+M /3 /450*10 [4500] /1480 /All /9+3 /- /89 /-35 /- /-
+END

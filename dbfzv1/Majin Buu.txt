@@ -1,0 +1,37 @@
+﻿Majin Buu
+5L /400 /All /6 /3 /- /- /- /-
+5LL /700 /Low /12 /5 /- /- /- /-
+5LLL /1000 /All /12 /4 /- /- /- /-
+5M /700 /High /27 /4 /- /- /- /Annoying overhead
+5H /850 /All /15 /4 /- /- /- /-
+5S /300*1~4[1200] /All /11 /- /- /- /- /-
+2L /400 /Low /7 /3 /- /- /- /-
+2M /700 /Low /10 /4 /- /- /- /-
+2H /850 /All /13 /3 /- /- /- /-
+2S /600 /All /13 /- /- /- /- /-
+6M /850 /High /24 /6 /- /- /- /-
+jL /400 /High /6 /3 /- /- /- /-
+jM /700 /high /11 /3 /- /- /- /-
+jH /850 /High /17 /3 /- /- /- /-
+jS /300*1~4 [1200] /High /12 /- /- /- /- /-
+j2H /850 /All /14 /6 /- /- /- /-
+SPECIAL
+Dive Bomb /236L /0 /100,500,100*3,300 [1200] /All,High /10 /- /- /- /- /-
+Dive Bomb /236M /0 /100,500,100*5,300 [1400] /All,High /10 /- /- /- /- /-
+Dive Bomb /236H /1 /100,500,100*7,300 [1600] /All,High /7 /- /- /- /- /-
+Dive Bomb /j236L /0 /100,500,100*3,300 [1200] /High /19 /- /- /- /- /-
+Dive Bomb /j236M /0 /100,500,100*5,300 [1400] /High /23 /- /- /- /- /-
+Dive Bomb /j236H /1 /100,500,100*7,300 [1600] /High /19 /- /- /- /- /-
+Cartwheel /214L /0 /900 /All /12 /5 /- /- /- /- /-
+Cartwheel /214M /0 /900 /All /12 /5 /- /- /- /- /-
+Cartwheel /214H /1 /1100 /All /8 /5 /- /- /- /1-End air /-
+Cartwheel /j214L /0 /900 /All /9 /4 /- /- /- /- /-
+Cartwheel /j214M /0 /900 /All /9 /4 /- /- /- /- /-
+Cartwheel /j214H /1 /1100 /All /6 /4 /- /- /- /- /-
+Sweeping Breath /236S /0 /110 /All /17 /10 /- /- /- /I'M UGLY AND I'M PROUD
+Fat Throw /214S /0 /400 /All /31 /- /- /- /- /Sets up mixups
+Assist /A1/A2 /0 /800 /All /34 /10 /- /- /- /-
+SUPER
+Now Buu Really Hate You /236L+M /1 /140*19 [2660] /798 /All /13+2 /38 /- /- /13-20 All /REEEEEEEEEEEEEEEEEE
+Turn Into Candy /214L+M /3 /3750 /- /All /11+1 /- /- /- /- /Heals 1500 blue health on hit
+END

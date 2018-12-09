@@ -1,0 +1,31 @@
+﻿Tien
+5L /400 /All /- /- /- /- /- /-
+5LL /700*2 [1400] /All /- /- /- /- /- /-
+5LLL /100*8, 250 [1050] /All /- /- /- /- /- /-
+5M /700 /All /- /- /- /- /- /-
+5H /850 /All /- /- /- /- /- /-
+5S /600 /All /- /- /- /- /- /-
+2L /400 /Low /- /- /- /- /- /-
+2M /700 /Low /- /- /- /- /- /-
+2H /850 /All /- /- /- /- /- /-
+6M /850 /High /- /- /- /- /- /-
+jL /300*2 [600] /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /600 /All /- /- /- /- /- /-
+j2H /850 /All /- /- /- /- /- /-
+SPECIAL
+Volleyball Fist /236L /0 /700 /Low /- /- /- /- /- /Followups with buttons
+Volleyball Fist /236M /0 /700 /Low /- /- /- /- /Armor /Followups with buttons
+Volleyball Fist /236H /1 /700,800,900 [2400] /Throw /- /- /- /- /- /-
+Aerial Volleyball Fist /j236L /0 /1000 /High /- /- /- /- /- /-
+Aerial Volleyball Fist /j236M /0 /1000 /High /- /- /- /- /- /Sliding KD
+Aerial Volleyball Fist /j236H /1 /1200 /High /- /- /- /- /- /Sliding KD
+Dodon Ray /236S /0 /900 /All /- /- /- /- /- /Air OK
+Telekinesis /214S /0 /0 /All /- /- /- /- /- /Stuns opponent. Doesn't work every 3rd tiem. Won't work without Chiaotzu.
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Tri-Beam /236L+M /1 /2400 /960 /All /- /- /- /- /- /Does 1000 damage to Tien
+Neo Tri-Beam /214L+M /3-7 /3600 /1656 /All /0 /- /- /- /- /Hits do damage to Tien. Spend bar for more hits.
+Farewell, Tien /214H+S /3 /3600 /2160 /Unblockable /- /- /- /- /- /Kills Chiaotzu :(
+END

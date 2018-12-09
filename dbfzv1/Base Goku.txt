@@ -1,0 +1,35 @@
+﻿Base Goku
+5L /400 /All /6 /- /- /-4 /- /-
+5LL /700 /All /- /- /- /-4 /- /-
+5LLL /1000 /All /- /- /- /-4 /- /-
+5M /700 /All /9 /- /- /-5 /- /-
+5H /850 /All /14 /- /- /-8 /- /-
+5S /300*1~6 [1800] /All /13 /- /-4 /- /- /-
+2L /400 /All /6 /- /- /-4 /- /-
+2M /700 /Low /10 /- /- /-11 /- /-
+2H /850 /All /14 /- /- /-17 /- /-
+2S /600 /All /17 /- /- /-8 /- /1/2/3S to aim
+2SSS /1000 /High /- /- /- /-5 /- /-
+6M /850 /High /24 /- /- /0 /- /-
+jL /400 /High /6 /- /- /- /- /-
+jM /700 /High /10 /- /- /- /- /-
+jH /850 /High /13 /- /- /- /- /-
+jS /600 /All /12 /- /- /- /- /-
+j2H /850 /All /11 /- /- /- /- /-
+SPECIAL
+Heavy Elbow /236L /0 /900 /All /15 /- /- /-5 /- /-
+Heavy Elbow /236M /0 /1000 /All /26 /- /- /-5 /- /-
+Heavy Elbow /236H /1 /1200 /All /19 /- /- /-5 /- /-
+Back Throw /214L /0 /700 /Throw /23 /- /- /- /- /-
+Back Throw /214M /0 /700 /Throw /25 /- /- /- /- /-
+Back Throw /214H /1 /1400 /Throw /25 /- /- /- /- /-
+Kamehameha /236S /0 /1000 /All /21 /- /- /- /- /Air OK
+LEND ME YOUR ENERGYYYYY /214S /0 /22 /All /- /- /- /- /- /Holdable for 3 levels
+Spirit bomb /214S /0 /1680 /All /- /- /- /- /- /Need energy first
+Spirit bomb (Level 2) /214S /0 /2112 /All /- /- /- /- /- /Need energy first
+Spirit bomb (Level 3) /214S /0 /2640 /All /- /- /- /- /- /Need energy first
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Kaio-ken /236L+M /1 /- /- /- /- /- /- /- /- /Different followups with every button
+Super Spirit Bomb /214L+M /3 /5649 /2314 /All /- /- /- /- /- /Hella damage
+END

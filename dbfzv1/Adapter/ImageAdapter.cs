@@ -91,7 +91,7 @@ namespace dbfzv1.Adapter
          Resource.Drawable.vgn,
          Resource.Drawable.veg,
          Resource.Drawable.bvg,
-         Resource.Drawable.veg,
+         Resource.Drawable.vgo,
          Resource.Drawable.yam,
          Resource.Drawable.zam,
 

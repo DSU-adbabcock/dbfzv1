@@ -1,0 +1,33 @@
+﻿Kid Buu
+5L /400 /All /6 /- /- /-3 /- /-
+5LL /700 /All /10 /- /- /-3 /- /-
+5LLL /1000 /All /14 /- /- /-5 /- /-
+5M /500,700 [1200] /All /10 /- /- /-5 /- /-
+5H /850 /All /12 /- /- /-9 /- /-
+5S /600 /All /13 /- /- /-3 /- /-
+2L /400 /Low /7 /- /- /-2 /- /-
+2M /500 /Low /15 /- /- /-10 /- /-
+2H /850 /All /13 /- /- /-15 /- /Terrible hitbox
+2S /700 /All /- /- /- /- /- /-
+6M /850 /High /24 /- /- /- /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /500,700 [1200] /All,High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /600 /All /- /- /- /- /- /-
+j2H /850 /All /- /- /- /- /- /-
+SPECIAL
+Mystic Ball Attack /236L /0 /1100 /All /14 /- /- /- /- /-
+Mystic Ball Attack /236M /0 /1100 /All /17 /- /- /- /- /-
+Mystic Ball Attack /236H /1 /1100,400 [1500] /All /15 /- /- /- /- /-
+Mystic Arm Swing /214L /0 /1400 /Air Throw /15 /- /- /- /Air /-
+Mystic Arm Swing /214M /0 /1500 /Air Throw /22 /- /- /- /Air /-
+Mystic Arm Swing /214H /1 /1500 /Air Throw /14 /- /- /- /Air /-
+Candy Beam /236S /0 /1301 /All /13 /- /- /-8 /- /Heals 400 blue health
+Kamehameha /j236S /0 /1310 /All /- /- /- /- /- /-
+Arm Ball /214S /0 /1000 /ALl /36 /- /- /+40 /- /-
+Assist /A1/A2 /0 /800 /All /58 /- /- /- /- /Hella mixups
+SUPER
+Human Extinction Attack /236L+M /1 /2500 /800 /All /- /- /- /- /- /-
+Pearl Flash /j236L+M /1 /2300 /- /All /- /- /- /- /- /-
+Planet Burst /214L+M /3 /4300 /- /All /- /- /- /- /- /Freezes sparking recovery
+END

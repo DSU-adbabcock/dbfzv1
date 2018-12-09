@@ -1,0 +1,31 @@
+﻿Trunks
+5L /400 /All /6 /- /- /-5 /- /-
+5LL /700 /All /11 /- /- /-7 /- /-
+5LLL /1000 /All /13 /- /- /-7 /- /-
+5M /700 /All /9 /- /- /-9 /- /-
+5H /850 /All /13 /- /- /-17 /- /-
+5S /600 /All /15 /- /- /-14 /- /-
+2L /400 /All /6 /- /- /-5 /- /-
+2M /700 /Low /12 /- /- /-10 /- /-
+2H /850 /All /15 /- /- /-18 /- /Can deflect ki blasts
+6M /850 /High /24 /- /- /0 /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /600 /All /- /- /- /- /- /-
+j2H /850 /All /- /- /- /- /- /-
+SPECIAL
+Shining Slash /236L /0 /300, 50*4, 800 [1300] /High /- /- /- /- /- /-
+Shining Slash /236M /0 /300, 50*8, 800 [1500] /High /- /- /- /- /- /-
+Shining Slash /236H /1 /300, 50*14, 800 [1800] /High /- /- /- /- /- /-
+Cyclone Jump /214L /0 /- /- /- /- /- /- /- /-
+Cyclone Jump /214M /0 /- /- /- /- /- /- /- /-
+Cyclone Jump /214H /1 /- /- /- /- /- /- /- /Can be aimed
+Cyclone Buster /Cyclone Jump->S /0 /600 /All /- /- /- /- /- /-
+Masenko /236S /0 /1310 /All /- /- /- /- /- /-
+Change the Future /214S /0 /900 /All /- /- /- /- /- /Chargable for a dash
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Burning Attack /236L+M /1 /2200 /- /All /- /- /- /- /- /-
+Heat Dome Attack /214L+M /3 /4863 /- /Throw /- /- /- /- /- /-
+END

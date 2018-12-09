@@ -1,0 +1,32 @@
+﻿Goku Blue
+5L /400 /All /6 /4 /11 /-3 /- /-
+5LL /700 /Low /10 /3 /19 /-6 /- /-
+5LLL /1000 /High /26 /3 /18 /-5 /- /-
+5M /700 /All /10 /3 /18 /-5 /- /-
+5H /850 /All /14 /6 /18 /-5 /- /-
+5S /300*1~6 [1800] /All /13 /- /24 /-4 /- /-
+2L /400 /Low /7 /3 /13 /-3 /- /-
+2M /700 /Low /10 /3 /18 /-5 /- /-
+2H /850 /All /14 /3 /30 /-17 /- /-
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /600 /All /13 /1 /27 /-7 /- /-
+j2H /850 /All /11 /4 /23 /-11 /- /-
+SPECIAL
+Divine Void Strike /236L /0 /900 /All /11 /6 /22 /-5 /- /-
+Divine Void Strike /236M /0 /1000 /All /17 /8 /24 /-5 /- /-
+Divine Void Strike /236H /1 /1100 /All /34 /8 /24 /-5 /- /-
+Super God Shock Flash /214L /0 /1800 /Throw /26 /- /18 /-5 /- /Has followup punch even after whiff
+Super God Shock Flash /214M /0 /1000 /Throw /26 /2 /33 /- /- /
+Super God Shock Flash /214H /1 /2000 /Throw /26 /- /18 /-5 /- /Has followup punch even after whiff
+Dragon Flash Kick /j214L /0 /900 /All /15 /2+ /20 /-3 /- /-
+Dragon Flash Kick /j214M /0 /1000 /All /23 /2+ /23 /-3 /- /-
+Dragon Flash Kick /j214H /1 /1100 /All /11 /2+ /20 /-3 /- /-
+Instant Transmission /236S/214S /0 /900 /All /30 /3 /23 /-5 /- /236S for behind, 214 for front
+Assist /A1/A2 /0 /800 /All /24 /7 /40 /- /- /-
+SUPER
+Extreme Speed Kamehameha /236L+M /1 /2500 /750 /All /9+4 /45 /37 /-20 /- /Air OK
+x10 Kaioken Kamehameha /214L+M /3/5 /4220 /- /All /9+3 /5 /26 /-15 /- /Hold to do extended for 1710 extra damage & 2 bars
+END

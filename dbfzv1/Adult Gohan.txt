@@ -1,0 +1,36 @@
+﻿Adult Gohan
+5L /400*2 [800] /Low,All /6 /3 /11 /-3 /- /-
+5LL /100*4 [400] /All /- /- /- /- /- /-
+5LLL /1000 /All /- /- /- /- /- /-
+5M /700 /All /9 /4 /20 /- /- /-
+5H /850 /All /11 /6 /18 /- /- /-
+5S /800 /All /17 /3 /26 /- /- /-
+2L /700 /All /8 /3 /13 /0 /- /-
+2M /700 /Low /12 /6 /17 /- /- /-
+2H /850 /ALl /14 /3 /29 /- /- /-
+2S /600 /All /14 /1 /24 /- /- /-
+6M /850 /High /24 /6 /10 /0 /- /-
+jL /400 /High /- /- /- /- /- /-
+jM /700 /High /- /- /- /- /- /-
+jH /850 /High /- /- /- /- /- /-
+jS /600 /All /- /- /- /- /- /-
+j2H /850 /All /- /- /- /- /- /-
+j2S /- /- /- /- /- /- /- /Jumps to ground
+SPECIAL
+Machine Gun Punch /3L /0 /80*4 [720] /All /9 /- /17 /- /- /[] When held
+Ultimate High Kick /3H /0 /700 /All /8 /4 /18 /- /Air /-
+Jet Uppercut /236L /0 /900 /All /9 /8 /33 /-30 /Air /-
+Jet Uppercut /236M /0 /600,800 [180*Level] /All /16 /- /33 /-28 /1-19 /[] After PU
+Jet Uppercut /236H /1 /600, 1000 [180*Level] /All /9 /- /36 /-34 /1-12 /[] After PU
+Machine Gun Kick /236L /0 /350*N /All /8 /- /- /- /- /-
+Machine Gun Kick /236M /0 /350*N /All /13 /- /- /- /- /-
+Machine Gun Kick /236H /1 /1300 [1650] /All /11 /- /- /- /- /After PU Level 1
+Ultimate Back Attack /214L /0 /900 /High /24 /8 /11 /-4 /- /-
+Ultimate Back Attack /214M /0 /100 /High /28 /8 /9 /-4 /- /-
+Ultimate Back Attack /214H /1 /1100 /High /26 /8 /9 /-4 /- /-
+Masenko /236S /0 /1310 [1834] /All /18 /22 /33 /- /- /[] After PU Level 1
+Assist /A1/A2 /0 /800 /All /- /- /- /- /- /-
+SUPER
+Potential Unleashed /236L+M/H+S /1-7 /1600 /- /All /- /- /- /- /- /Can hold H+S to spend bars adding +250 damage for each
+Bros. Kamehameha /214L+M /3 /4060 /- /All /- /- /- /- /- /-
+END

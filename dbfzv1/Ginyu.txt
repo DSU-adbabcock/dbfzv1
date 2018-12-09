@@ -1,0 +1,33 @@
+﻿Ginyu
+5L /400 /All /6 /4 /- /-3 /- /-
+5LL /500*2 [1000] /All /- /- /- /-5 /- /-
+5LLL /1000 /All /14 /5 /- /-5 /- /-
+5M /700 /All /11 /4 /- /-6 /- /-
+5H /850 /All /17 /5 /- /-10 /- /-
+5S/jS Guldo /600 /All /44 /- /- /- /- /-
+5S/jS Recoome /900 /All /60 /6 /- /- /- /-
+5S/jS Burter /250*4 /All /32 /- /- /- /- /-
+5S/jS Jeice /700 /All /43 /- /- /- /- /-
+2L /400 /All /6 /3 /- /-3 /- /-
+2M /700 /Low /14 /4 /- /-6 /- /-
+2H /850 /All /15 /3 /- /-3 /- /-
+6M /850 /High /24 /6 /- /0 /- /-
+jL /300*2 /High /6 /- /- /- /- /-
+jM /700 /High /10 /3 /- /- /- /-
+jH /850 /High /13 /4 /- /- /- /-
+j2H /850 /All /13 /4 /- /- /- /-
+SPECIAL
+Strong Jersey /236L /0 /1000 /All /13 /10 /- /-5 /- /-
+Strong Jersey /236M /0 /1200 /All /21 /10 /- /-5 /- /-
+Strong Jersey /236H /1 /1300 /All /13 /10 /- /-2 /- /-
+Strong Jersey /j236L /0 /1000 /All /15 /6 /- /- /- /-
+Strong Jersey /j236M /0 /1200 /All /23 /6 /- /- /- /-
+Strong Jersey /j236H /1 /1300 /All /15 /6 /- /- /- /-
+Together we are... the Ginyu Force! /236S /0 /- /- /- /- /- /- /- /Summons a Ginyu Force Member in a cycle
+Assist /A1/A2 /0 /800 /All /33 /10 /- /- /- /-
+SUPER
+Powerful Energy Wave (Level 1) /236L+M /1 /2000 /- /All /9+4 /- /- /- /- /Hold to charge
+Powerful Energy Wave (Level 2) /236L+M /2 /2500 /- /All /9+4 /- /- /- /- /Hold to charge
+Powerful Energy Wave (Level 3) /236L+M /3 /3000 /- /All /9+3 /- /- /- /- /Hold to charge
+Body Change /214L+M /3 /0 /3000 /45+15 /- /- /- /- /- /Hold to do 3000 dmg to Ginyu before swapping
+END

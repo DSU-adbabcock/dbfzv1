@@ -251,6 +251,72 @@
   <ItemGroup>
     <EmbeddedResource Include="Cooler.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Frieza.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Teen Gohan.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Adult Gohan.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Base Goku.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SSJ Goku.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Goku Blue.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Goku Black.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Gotenks.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Hit.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Kid Buu.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Krillin.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Majin Buu.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Nappa.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Piccolo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Tien.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Trunks.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Base Vegeta.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SSJ Vegeta.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Vegeta Blue.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Vegito.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Yamcha.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Ginyu.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
     Other similar extension points exist, see Microsoft.Common.targets.

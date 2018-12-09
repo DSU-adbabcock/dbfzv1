@@ -1,0 +1,30 @@
+﻿Yamcha
+5L /400 /All /7 /- /- /- /-3 /- /-
+5LL /700 /All /- /- /- /-4 /- /-
+5LLL /80*4,1000 [1320] /All /- /- /- /-5 /- /-
+5M /700 /All /18 /- /- /0 /- /-
+5H /850 /ALl /31 /- /- /+4 /- /Kinda like a backswing blow
+5S /600 /All /14 /- /- /+1 /- /-
+2S /600 /All /- /- /- /- /- /-
+2L /400 /All /6 /- /- /-3 /- /-
+2M /700 /Low /10 /- /- /-5 /- /- 
+2H /700*2 [1400] /All /13 /- /- /-13 /- /Only first hit activates smash
+6M /850 /High /24 /- /- /0 /- /-
+jL /400 /High /6 /- /- /- /- /- 
+jM /700 /High /9 /- /- /- /- /-
+jH /850 /High /15 /- /- /- /- /-
+jS /600 /All /13 /- /- /- /- /-
+j2H /850 /All /12 /- /- /- /- /Divekick
+SPECIAL
+Wolf Fang Fist /236L /0 /220*5 [1100] /All /11 /- /- /-5 /- /Followups availiable
+Reverse Wolf Fang Fist /236M /0 /400*2, 220*3 [1440] /All /32 /- /- /-5 /- /Followups availiable
+Neo Wolf Fang Fist /236H /1 /80*10, 380*2 [1560] /All /- /- /- /- /- /Combos availiable after
+Wolf Fang Fist: Gale Claws /214L /0 /50*7, 700 [1050] /All /9 /- /- /-4 /- /-
+Wolf Fang Fist: Gale Claws /214M /0 /50*7, 800 [1150] /All /13 /- /- /-7 /- /-
+Wolf Fang Fist: Gale Claws /214H /1 /50*7, 900 [1250] /All /9 /- /- /-22 /- /-
+Kamehameha /236S /0 /1310 /All /26 /- /- /-4 /- /-
+Assist /A1/A2 /0 /200*4, 300 [1100] /All /20 /- /- /- /- /Really fast and good stun
+SUPER
+Spirit Ball /236L+M /1 /1300, 200*0~5 [2300] /690 /All /- /- /- /- /- /Can control ball followups for solo lv1->lv3
+Ultimate Wolf Fang Fist /214L+M /3 /4015 /1557 /All /- /- /- /- /- /-
+END
