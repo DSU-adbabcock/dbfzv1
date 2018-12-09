@@ -15,7 +15,7 @@ namespace dbfzv1
 {
     public class ExpandableListViewAdapter : BaseExpandableListAdapter
     {
-
+        //sets up the expandable list.
         private Context context;
 
         private List<string> listGroup;
@@ -105,72 +105,6 @@ namespace dbfzv1
             return true;
         }
 
-        /*public override View GetView(int position, View convertView, ViewGroup parent)
-        {
-            var view = convertView;
-            ExpandableListViewAdapterViewHolder holder = null;
-
-            if (view != null)
-                holder = view.Tag as ExpandableListViewAdapterViewHolder;
-
-            if (holder == null)
-            {
-                holder = new ExpandableListViewAdapterViewHolder();
-                var inflater = context.GetSystemService(Context.LayoutInflaterService).JavaCast<LayoutInflater>();
-                //replace with your item and your holder items
-                //comment back in
-                //view = inflater.Inflate(Resource.Layout.item, parent, false);
-                //holder.Title = view.FindViewById<TextView>(Resource.Id.text);
-                view.Tag = holder;
-            }
-
-
-            //fill in your items
-            //holder.Title.Text = "new text here";
-
-            return view;
-        }
-
-        public override Java.Lang.Object GetChild(int groupPosition, int childPosition)
-        {
-            throw new NotImplementedException();
-        }
-
-        public override long GetChildId(int groupPosition, int childPosition)
-        {
-            throw new NotImplementedException();
-        }
-
-        public override int GetChildrenCount(int groupPosition)
-        {
-            throw new NotImplementedException();
-        }
-
-        public override View GetChildView(int groupPosition, int childPosition, bool isLastChild, View convertView, ViewGroup parent)
-        {
-            throw new NotImplementedException();
-        }
-
-
-        
-
-        
-
-        
-
-        //Fill in cound here, currently 0
-        public override int Count
-        {
-            get
-            {
-                return 0;
-            }
-        }
-
-        public override int GroupCount => throw new NotImplementedException();
-
-        public override bool HasStableIds => throw new NotImplementedException();
-    }*/
 
         class ExpandableListViewAdapterViewHolder : Java.Lang.Object
         {

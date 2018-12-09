@@ -20,19 +20,21 @@ namespace dbfzv1
         ExpandableListViewAdapter mAdapter;
         ExpandableListView expandableListView;
         List<string> headers = new List<string>();
-        Dictionary<string, List<string>> dict = new Dictionary<string, List<string>>();
+        Dictionary<string, List<string>> dict = new Dictionary<string, List<string>>(); //this is to bind headers and expandable list
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.frame_page);
 
-            string characterName = Intent.GetStringExtra("character") ?? string.Empty;
+            string characterName = Intent.GetStringExtra("character") ?? string.Empty; //grab charname from intent
+
             Character character = new Character(characterName);
-            character.InitMoveList();
+            character.InitMoveList(); //this isn't in the constructor because it takes a while and depends on the file existing.
 
             expandableListView = FindViewById<ExpandableListView>(Resource.Id.expandableListView);
 
-            Setup(character, out mAdapter);
+            Setup(character, out mAdapter); //fill out lists
 
             expandableListView.SetAdapter(mAdapter);
         }

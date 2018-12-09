@@ -21,11 +21,14 @@ namespace dbfzv1
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+
             base.OnCreate(savedInstanceState);
 
             SetContentView(Resource.Layout.notes);
             var editText = FindViewById<EditText>(Resource.Id.editText);
-
+            editText.SetHorizontallyScrolling(false);
+            editText.SetMaxLines(999);
+            editText.SetRawInputType(Android.Text.InputTypes.ClassText);
             var text = "";
 
             ISharedPreferences prefs = PreferenceManager.GetDefaultSharedPreferences(this);
