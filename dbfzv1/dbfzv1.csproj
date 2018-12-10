@@ -64,7 +64,7 @@
     <Compile Include="SpecialMove.cs" />
     <Compile Include="ExpandableListViewAdapter.cs" />
     <Compile Include="Move.cs" />
-    <Compile Include="displayFrameData.cs" />
+    <Compile Include="DisplayFrameData.cs" />
     <Compile Include="Adapter\ImageAdapter.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="NormalMove.cs" />

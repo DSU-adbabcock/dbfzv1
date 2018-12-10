@@ -14,7 +14,7 @@ using Android.Widget;
 namespace dbfzv1
 { 
     [Activity(Label = "Frame Data")]
-    public class displayFrameData : AppCompatActivity
+    public class DisplayFrameData : AppCompatActivity
     {
 
         ExpandableListViewAdapter mAdapter;

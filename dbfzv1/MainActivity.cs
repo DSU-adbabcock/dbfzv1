@@ -58,7 +58,7 @@ namespace dbfzv1
             }
             else 
             {
-                charIntent = new Intent(this, typeof(displayFrameData));
+                charIntent = new Intent(this, typeof(DisplayFrameData));
                 charIntent.PutExtra("character", characters[e.Position]); //pass charname to displayFrameData activity to choose which char to display for
                 StartActivity(charIntent);
             }
