@@ -50,7 +50,7 @@ namespace dbfzv1
         }
 
 
-        public string InitMoveList()
+        public void InitMoveList()
         {
             var assembly = IntrospectionExtensions.GetTypeInfo(typeof(MainActivity)).Assembly;
             Stream stream = assembly.GetManifestResourceStream("dbfzv1." + name + ".txt"); //get embedded char file
@@ -91,7 +91,6 @@ namespace dbfzv1
                 }
 
             }
-            return text;
         }
 
         public void SortMoveList(string sortType)
