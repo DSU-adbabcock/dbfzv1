@@ -16,7 +16,7 @@ namespace dbfzv1
     {
         private string input;
         private string minDamage;
-
+        //
         public SuperMove()
         {
             name = "Unnamed super move";

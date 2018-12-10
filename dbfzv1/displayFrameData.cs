@@ -17,10 +17,10 @@ namespace dbfzv1
     public class DisplayFrameData : AppCompatActivity
     {
 
-        ExpandableListViewAdapter mAdapter;
-        ExpandableListView expandableListView;
-        List<string> headers = new List<string>();
-        Dictionary<string, List<string>> dict = new Dictionary<string, List<string>>(); //this is to bind headers and expandable list
+        private ExpandableListViewAdapter mAdapter;
+        private ExpandableListView expandableListView;
+        private List<string> headers = new List<string>();
+        private Dictionary<string, List<string>> dict = new Dictionary<string, List<string>>(); //this is to bind headers and expandable list
 
         protected override void OnCreate(Bundle savedInstanceState)
         {

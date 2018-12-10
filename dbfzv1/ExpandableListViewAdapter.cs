@@ -106,10 +106,10 @@ namespace dbfzv1
         }
 
 
-        class ExpandableListViewAdapterViewHolder : Java.Lang.Object
+   /*     class ExpandableListViewAdapterViewHolder : Java.Lang.Object
         {
             //Your adapter views to re-use
             //public TextView Title { get; set; }
-        }
+        }*/
     }
 }

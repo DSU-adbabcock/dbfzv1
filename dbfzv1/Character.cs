@@ -89,8 +89,8 @@ namespace dbfzv1
                     moveList.Add(move);
                     text = reader.ReadLine();
                 }
-
             }
+
         }
 
         public void SortMoveList(string sortType)

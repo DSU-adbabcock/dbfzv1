@@ -17,7 +17,7 @@ namespace dbfzv1.Adapter
 {
     public class ImageAdapter : BaseAdapter
     {
-        Context context;
+        private Context context;
 
         public ImageAdapter (Context c)
         {
